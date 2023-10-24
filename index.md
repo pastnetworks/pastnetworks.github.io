@@ -14,6 +14,9 @@ cover: true
 
 Welcome to this website
 
+1. this list will be replaced by the toc
+{:toc .large-only}
+
 ## Title 2
 
 ## Title 3
