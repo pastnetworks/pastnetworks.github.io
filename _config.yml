@@ -48,14 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
- - title:             Home
-    url:               /index
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+ - title:              Home
+    url:               /
+  - title:             Page1
+    url:               /page1/
+  - title:             Page2
+    url:               /page2/
+  - title:             Page3
+    url:               /page3/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
