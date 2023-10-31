@@ -10,7 +10,7 @@ cover: true
 ---
 
 ## Venues
-The Barcelona Past Networks Summer School will take place in a central location in Barcelona (TBD).
+The Barcelona Past Networks Summer School will take place in a central location in Barcelona (Spain) (TBD).
 
 
 1. this list will be replaced by the toc
