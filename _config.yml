@@ -56,8 +56,8 @@ menu:
     url:               /programme/
   - title:             Venues
     url:               /venues/
-  - title:             Registration
-    url:               /registration/
+  - title:             Application
+    url:               /application/
   - title:             Bursaries
     url:               /bursaries/
 
