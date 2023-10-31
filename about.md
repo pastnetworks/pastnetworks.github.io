@@ -9,13 +9,15 @@ hide_image: false
 cover: true
 ---
 
-## About
+## At a glance
 
 * Annual 5-day summer school in Barcelona
 *	Teaching the theory and practice of network research 
 *	For those studying the human past (historians, archaeologists, classicists, …)
 *	No prior computational skills required, but willingness to learn
 
+## Details
+TDB
 
 1. this list will be replaced by the toc
 {:toc .large-only}
