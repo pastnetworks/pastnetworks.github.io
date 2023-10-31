@@ -18,7 +18,3 @@ cover: true
 * Luce Prignano, Universitat de Barcelona <!-- UB -->
 
 <!-- Add links to people, Insert Logos here -->
-
-
-1. this list will be replaced by the toc
-{:toc .large-only}
