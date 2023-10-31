@@ -1,6 +1,6 @@
 ---
 layout: page
-title: programme
+title: Programme
 description: >
 last_modified_at: 2023-10-31
 no_link_title: false 
@@ -9,7 +9,47 @@ hide_image: false
 cover: true
 ---
 
-## Programme
+##  At a glance
+
+The school is structured around both theoreticial lectures and computational practicals. 
+
+INSERT FIGURE
+
+##  Detailed programme
+
+### Day 1 – Welcome & Introduction 
+
+* Opening social: Network “speed dating”
+* Lecture 1: Introduction to the summer school - what, why, and how of past network research
+* Practical 1: Computational basics - set up R, workspace, and read network data
+
+### Day 2 – Data & Methods
+
+*	Practical session 2: How to obtain, create, and clean network data 
+*	Lecture 2: Network analysis and methods
+*	Practical 3: Exploratory network analysis 
+*	Practical 4: Network visualization techniques 1: plotline/ggplot2 
+
+### Day 3 – How to tackle a project?
+
+*	Practical 5: Networks as a model, a tool to gain insight into phenomena and data
+*	Lecture 3: Research design <!-- Group of lectures share their experiences followed by a Q & A -->
+*	Practical 6: Network visualization techniques 2: Gephi tutorial 
+*	Practical 7: Best practices: data and results deposition and documentation <!-- Introduction to individual / group projects -->
+
+### Day 4 – Projects and Critical Perspectives 
+
+*	Practical 8: Work on projects
+*	Lecture 4: Critical perspectives on historical and archaeological data <!-- Reflections on previous days content--> 
+*	Practical 9: Work on projects or elective advanced tutorial
+*	Practical 10: Work on projects or elective advanced tutorial 
+
+### Day 5 – Discussion and Moving Forward
+
+*	Discuss on what one has learnt and support on how to apply it to future research projects
+*	How to take the next steps in this community – what are the conferences, resources and publications? 
+*	Evaluation of the summer school
+*	Social goodbyes 
 
 1. this list will be replaced by the toc
 {:toc .large-only}
