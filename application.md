@@ -41,7 +41,7 @@ The registration fee does not include the following, please make your own arrang
 
 ## Support
 
-This low fee is made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/organisers/), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
+This low registration fee is made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/organisers/), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
 
 A small number of [bursaries](/bursaries/) are available to support attendance.
 
