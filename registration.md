@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
-The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the 21st of January 2024 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR registration fee.
+The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the 21 January 2024 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR registration fee.
 
 Complete the [registration form](/registrationform). 
 
@@ -23,7 +23,8 @@ Complete the [registration form](/registrationform).
 The registration form includes a 400-word motivational statement that should clearly describe why you want to attend the BPNSS, and how you expect to benefit from the experience. No CV or other documentation is required. The submitted registration forms will be reviewed by the [organizing committee](/organisers/), who will offer places and create a waiting list.
 
 ## Registration fee
-The total registration fee is 75 EUR
+The total registration fee is 75 EUR.
+
 This includes:
 * All lunches
 * All coffee and tea breaks
