@@ -51,7 +51,3 @@ Your answers to the questions on the application form will be accessed by the or
 A willingness to learn, as expressed in the motivational statement, is the primary criterion of evaluation. Additional personal information is collected to ensure a balanced mix of participants in terms of gender, disciplinary background, career level, and country of residence. The same information will be retained in an anonymised form to ensure that the future editions of the summer school can be improved based upon the experience of the previous years. 
 
 At any point, you may contact the organisers should you wish your data to be erased.   
-
-
-1. this list will be replaced by the toc
-{:toc .large-only}
