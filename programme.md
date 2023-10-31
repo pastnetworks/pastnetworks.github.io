@@ -50,6 +50,3 @@ INSERT FIGURE
 *	How to take the next steps in this community – what are the conferences, resources and publications? 
 *	Evaluation of the summer school
 *	Social goodbyes 
-
-1. this list will be replaced by the toc
-{:toc .large-only}
