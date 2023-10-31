@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past Networks
+title: The Barcelona Past Networks Summer School
 description: >
 last_modified_at: 2023-10-01
 no_link_title: false 
@@ -9,13 +9,8 @@ hide_image: false
 cover: true
 ---
 
-## The Barcelona Past Networks Summer School
 
-Welcome to this website!
 
-1. this list will be replaced by the toc
-{:toc .large-only}
-
-## Title 2
-
-## Title 3
+SUBSTITUE THIS WITH TOM's BLURB
+The Barcelona Past Networks Summer School is an annual 5-day summer school in Barcelona teaching the theory and practice of past network research. 
+It is aimed at those studying the human past (historians, archaeologists, classicists, …). No prior computational skills are required, but willingness to learn is essential.
