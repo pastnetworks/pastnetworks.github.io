@@ -20,7 +20,3 @@ There is no separate bursary application procedure. You have to apply for a burs
 In the [application form](/applicationform/), answer “Yes” to the question “Do you want to be considered for a bursary?”.
 
 Please describe in no more than 200 words your motivation for applying for a bursary.
-
-
-1. this list will be replaced by the toc
-{:toc .large-only}
