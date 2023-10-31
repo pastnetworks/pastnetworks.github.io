@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Registration form
+title: Application form
 description: >
 last_modified_at: 2023-10-31
 no_link_title: false 
@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
-## Registration form
+## Application form
 
 1. this list will be replaced by the toc
 {:toc .large-only}
