@@ -9,15 +9,15 @@ hide_image: false
 cover: true
 ---
 
-* Tom Brughmans, Aarhus University - Centre for Urban Network Evolutions <!--- UrbNet ---> 
-* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems <!--- UB ICS --->
-* Marten Düring, Luxembourg Centre for Contemporary & Digital History
-* Martin Grandjean, Université de Lausanne <!--- UNIL --->
-* Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions <!--- UrbNet ---> 
-* Cindarella Petz, Leibniz-Institut für Europäische Geschichte <!--- IEG --->
-* Luce Prignano, Universitat de Barcelona <!--- UB --->
+* Tom Brughmans, Aarhus University - Centre for Urban Network Evolutions <!-- UrbNet --> 
+* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems <!-- UB ICS -->
+* Marten Düring, Luxembourg Centre for Contemporary & Digital History <!-- C2DH -->
+* Martin Grandjean, Université de Lausanne <!-- UNIL -->
+* Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions <!-- UrbNet --> 
+* Cindarella Petz, Leibniz-Institut für Europäische Geschichte <!-- IEG -->
+* Luce Prignano, Universitat de Barcelona <!-- UB -->
 
-<!--- Add links to people, Insert Logos here --->
+<!-- Add links to people, Insert Logos here -->
 
 
 1. this list will be replaced by the toc
