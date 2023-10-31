@@ -86,7 +86,7 @@ remote_theme: hydecorp/hydejack@v9.1.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          barcelona.jpg
+accent_image:          /assets/img/raimond-klavins-barcelona-mosaic.jpg
 accent_color:          rgb(235,63,0)
 
 # This is used for the `theme-color` meta tag,
