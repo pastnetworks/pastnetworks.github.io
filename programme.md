@@ -11,7 +11,7 @@ cover: true
 
 ##  At a glance
 
-The school is structured around both theoreticial lectures and computational practicals. 
+The school is structured around theoretical lectures and computational practicals. 
 
 INSERT FIGURE
 
@@ -19,7 +19,7 @@ INSERT FIGURE
 
 ### Day 1 – Welcome & Introduction 
 
-* Opening social: Network “speed dating”
+* Opening social <!-- : Network “speed dating”-->
 * Lecture 1: Introduction to the summer school - what, why, and how of past network research
 * Practical 1: Computational basics - set up R, workspace, and read network data
 
@@ -47,6 +47,6 @@ INSERT FIGURE
 ### Day 5 – Discussion and Moving Forward
 
 *	Discuss on what one has learnt and support on how to apply it to future research projects
-*	How to take the next steps in this community – what are the conferences, resources and publications? 
-*	Evaluation of the summer school
-*	Social goodbyes 
+*	How to take the next steps in the past networks community – conferences, resources and publications 
+<!--*	Evaluation of the summer school -->
+<!--*	Social goodbyes --> 
