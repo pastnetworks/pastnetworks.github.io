@@ -13,7 +13,7 @@ cover: true
 
 The school is structured around theoretical lectures and computational practicals. 
 
-INSERT FIGURE
+![Programme timetable of BPNSS 2024](/assets/img/programme_timetable.png)
 
 ##  Detailed programme
 
