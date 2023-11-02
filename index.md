@@ -9,8 +9,16 @@ hide_image: false
 cover: true
 ---
 
+BLURB
 
+## Made possible thanks to
 
-SUBSTITUE THIS WITH TOM's BLURB
-The Barcelona Past Networks Summer School is an annual 5-day summer school in Barcelona teaching the theory and practice of past network research. 
-It is aimed at those studying the human past (historians, archaeologists, classicists, …). No prior computational skills are required, but willingness to learn is essential.
+* The [Past Social Networks Project](https://projects.au.dk/pastnetworks)
+* The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)’s Young Researcher Fellowship (CF21-0382) 
+* The [Connected Past](https://connectedpast.net/)
+* The [Historical Network Research](https://historicalnetworkresearch.org/) community 
+* The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
+* [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
+* [Université de Lausanne](https://www.unil.ch/index.html)
+* [Aarhus University](https://international.au.dk/)
+* [Leibniz-Institut für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/)
