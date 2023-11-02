@@ -20,12 +20,11 @@ url:                   https://pastnetworks.github.io/barcelona
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Past Networks
+title:                 The Barcelona Past Networks Summer School
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The Barcelona Past Networks Summer School
 
 # A shorter description for the sidebar.
 tagline:               The Barcelona Past Networks Summer School
