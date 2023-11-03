@@ -89,5 +89,4 @@ _____
 * [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/)
 
 
-
 <!-- Add links to people, Insert Logos here -->
