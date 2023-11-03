@@ -2,7 +2,7 @@
 layout: page
 title: Organisers
 description: >
-last_modified_at: 2023-10-31
+last_modified_at: 2023-11-03
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
@@ -16,7 +16,7 @@ cover: true
 * Marten Düring, Luxembourg Centre for Contemporary & Digital History <!-- C2DH -->
 * Martin Grandjean, Université de Lausanne <!-- UNIL -->
 * Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions <!-- UrbNet --> 
-* Cindarella Petz, Leibniz-Institut für Europäische Geschichte <!-- IEG -->
+* Cindarella Petz, Leibniz Institute of European History <!-- IEG -->
 * Luce Prignano, Universitat de Barcelona <!-- UB -->
 
 ## Made possible thanks to
