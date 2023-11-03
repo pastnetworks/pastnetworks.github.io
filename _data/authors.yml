@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Past> <Networks>
+  email:             <pastnetworks@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ author1:
   social:
     # twitter:         <username>
     github:          pastnetworks
-    # email:           <mail@domain.tld>
+    email:           <pastnetworks@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -68,15 +68,91 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Tom> <Brughmans>
+  email:             <t.b@cas.au.dk>
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    TBD.
 
     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/organisers/Tom_Brughmans.jpg
+  twitter:           <username>
+  github:            <username>
+
+# Another author (optional)
+author3:
+  name:              <Albert> <Diaz Guilera>
+  email:             <albert.diaz@ub.edu>
+  about:             |
+    Network scientist looking for unsuspected links in many different disciplines
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           /assets/img/organisers/Albert_Diaz_Guilera.jpg
+  twitter:           <username>
+  github:            <username>
+
+# Another author (optional)
+author4:
+  name:              <Marten> <Düring>
+  email:             <marten.during@uni.lu>
+  about:             |
+    TBD.
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           https://via.placeholder.com/400x400
+  twitter:           <username>
+  github:            <username>
+
+# Another author (optional)
+author5:
+  name:              <Martin> <Grandjean>
+  email:             <martin.grandjean@unil.ch>
+  about:             |
+    Historian who explores the networks of large international archives
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           /assets/img/organisers/Martin_Grandjean.jpg
+  twitter:           <username>
+  github:            <username>
+
+# Another author (optional)
+author6:
+  name:              <Matteo> <Mazzamurro>
+  email:             <m.mazzamurro@cas.au.dk>
+  about:             |
+    Urban complexity scientist interested in the evolution of social and transport connectivity
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           /assets/img/organisers/Matteo_Mazzamurro.jpg
+  twitter:           <username>
+  github:            <username>
+
+# Another author (optional)
+author7:
+  name:              <Cindarella> <Petz>
+  email:             <petz@ieg-mainz.de>
+  about:             |
+    Specialised in computational approaches for historical research
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           /assets/img/organisers/Cindarella_Petz.jpg
+  twitter:           <username>
+  github:            <username>
+
+# Another author (optional)
+author8:
+  name:              <Luce> <Prignano>
+  email:             <luceprignano@gmail.com>
+  about:             |
+    TBD.
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           https://via.placeholder.com/400x400
   twitter:           <username>
   github:            <username>
