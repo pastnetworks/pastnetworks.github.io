@@ -31,7 +31,7 @@ _____
 
 ![Albert Diaz Guilera profile picture](/assets/img/organisers/Albert_Diaz_Guilera.jpg), 
 
-[Albert Diaz Guilera](diaz-guilera.net), Universitat de Barcelona - Institute of Complex Systems
+[Albert Diaz Guilera](http://www.diaz-guilera.net/Albert_Diaz-Guilera/index.php), Universitat de Barcelona - Institute of Complex Systems
 
 *Network scientist looking for unsuspected links in many different disciplines.*
 
