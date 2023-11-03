@@ -26,6 +26,7 @@ cover: true
 [Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html), Aarhus University - Centre for Urban Network Evolutions  
 
 *TBD*
+
 _____
 
 ![Albert Diaz Guilera profile picture](/assets/img/organisers/Albert_Diaz_Guilera.jpg), 
@@ -33,6 +34,7 @@ _____
 [Albert Diaz Guilera](diaz-guilera.net), Universitat de Barcelona - Institute of Complex Systems
 
 *Network scientist looking for unsuspected links in many different disciplines.*
+
 _____
 
 ![Marten During profile picture](https://via.placeholder.com/400x400)
@@ -40,6 +42,7 @@ _____
 [Marten Düring](https://martenduering.com/), Luxembourg Centre for Contemporary & Digital History
 
 *TBD*
+
 _____
 
 ![Martin Grandjean profile picture](/assets/img/organisers/Martin_Grandjean.jpg)
@@ -66,11 +69,12 @@ _____
 
 _____
 
-[Luce Prignano](https://www.dribia.com/team/phd-luce-prignano/), Universitat de Barcelona
-
 ![Luce Prignano profile picture](https://via.placeholder.com/400x400)
 
+[Luce Prignano](https://www.dribia.com/team/phd-luce-prignano/), Universitat de Barcelona
+
 *TBD*
+
 
 ## Made possible thanks to
 
