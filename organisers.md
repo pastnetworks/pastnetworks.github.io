@@ -11,13 +11,66 @@ cover: true
 
 ## People
 
-* Tom Brughmans, Aarhus University - Centre for Urban Network Evolutions <!-- UrbNet --> 
-* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems <!-- UB ICS -->
-* Marten Düring, Luxembourg Centre for Contemporary & Digital History <!-- C2DH -->
-* Martin Grandjean, Université de Lausanne <!-- UNIL -->
-* Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions <!-- UrbNet --> 
-* Cindarella Petz, Leibniz Institute of European History <!-- IEG -->
-* Luce Prignano, Universitat de Barcelona <!-- UB -->
+<!-- * Tom Brughmans, Aarhus University - Centre for Urban Network Evolutions> <!-- UrbNet --> 
+<!--* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems --> <!-- UB ICS -->
+<!--* Marten Düring, Luxembourg Centre for Contemporary & Digital History --> <!-- C2DH -->
+<!--* Martin Grandjean, Université de Lausanne --> <!-- UNIL -->
+<!--* Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions --> <!-- UrbNet --> 
+<!--* Cindarella Petz, Leibniz Institute of European History --> <!-- IEG -->
+<!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
+
+
+
+![Tom Brughmans profile picture](/assets/img/organisers/Tom_Brughmans.jpg)
+
+[Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html), Aarhus University - Centre for Urban Network Evolutions  
+
+*TBD*
+_____
+
+![Albert Diaz Guilera profile picture](/assets/img/organisers/Albert_Diaz_Guilera.jpg), 
+
+[Albert Diaz Guilera](diaz-guilera.net), Universitat de Barcelona - Institute of Complex Systems
+
+*Network scientist looking for unsuspected links in many different disciplines.*
+_____
+
+![Marten During profile picture](https://via.placeholder.com/400x400)
+
+[Marten Düring](https://martenduering.com/), Luxembourg Centre for Contemporary & Digital History
+
+*TBD*
+_____
+
+![Martin Grandjean profile picture](/assets/img/organisers/Martin_Grandjean.jpg)
+
+[Martin Grandjean](https://www.martingrandjean.ch/), Université de Lausanne
+
+*Historian who explores the networks of large international archives.*
+
+_____
+
+![Matteo Mazzamurro profile picture](/assets/img/organisers/Matteo_Mazzamurro.jpg)
+
+[Matteo Mazzamurro](https://pure.au.dk/portal/en/persons/matteo-mazzamurro(3193a753-85dd-4c50-be05-c24b665f0d14).html), Aarhus University - Centre for Urban Network Evolutions 
+
+*Urban networks scientist interested in the evolution of social and transport connectivity.*
+
+_____
+
+![Cindarella Petz profile picture](/assets/img/organisers/Cindarella_Petz.jpg)
+
+[Cindarella Petz](https://www.ieg-mainz.de/en/institute/people/petz), Leibniz Institute of European History (IEG)
+
+*Specialised in computational approaches for historical research.*
+
+_____
+
+[Luce Prignano](https://www.dribia.com/team/phd-luce-prignano/), Universitat de Barcelona
+
+![Luce Prignano profile picture](https://via.placeholder.com/400x400)
+
+*TBD*
 
 ## Made possible thanks to
 
@@ -29,7 +82,7 @@ cover: true
 * [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
 * [Université de Lausanne](https://www.unil.ch/index.html)
 * [Aarhus University](https://international.au.dk/)
-* [Leibniz-Institut für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/)
+* [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/)
 
 
 
