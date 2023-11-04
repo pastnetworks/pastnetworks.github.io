@@ -78,25 +78,56 @@ _____
 
 ## Made possible thanks to
 
-* The [Past Social Networks Project](https://projects.au.dk/pastnetworks)
-* The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)’s Young Researcher Fellowship (CF21-0382) 
-* The [Connected Past](https://connectedpast.net/)
-* The [Historical Network Research](https://historicalnetworkresearch.org/) community 
-* The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
-* [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
-* [Université de Lausanne](https://www.unil.ch/index.html)
-* [Aarhus University](https://international.au.dk/)
-* [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/)
+[<img src="/assets/img/institutions-logos/PSNP_logo.png" alt="Past Social Networks Project logo" height="200"/>](https://projects.au.dk/pastnetworks) 
 
+The [Past Social Networks Project](https://projects.au.dk/pastnetworks)
 
-[<img src="/assets/img/institutions-logos/PSNP_logo.png" alt="Past Social Networks Project logo" height="200"/>](https://projects.au.dk/pastnetworks)
-[<img src="/assets/img/institutions-logos/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg logo" height="200"/>](https://www.carlsbergfondet.dk/en)
+_____
+
+[<img src="/assets/img/institutions-logos/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg logo" height="50"/>](https://www.carlsbergfondet.dk/en)
+
+The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)’s Young Researcher Fellowship (CF21-0382)
+
+_____
+
 [<img src="/assets/img/institutions-logos/connected-past-logo-long.jpg" alt="Connected Past logo" height="200"/>](https://connectedpast.net/)
+
+The [Connected Past](https://connectedpast.net/)
+
+_____
+
 [<img src="/assets/img/institutions-logos/hnr_logo_vector.png" alt="Historical Network Research logo" height="200"/>](https://historicalnetworkresearch.org/)
+
+The [Historical Network Research Community](https://historicalnetworkresearch.org/) 
+
+_____
+
 [<img src="/assets/img/institutions-logos/c2dh-tile.jpg" alt="Luxembourg Centre for Contemporary and Digital History (C^2^DH) logo" height="200"/>]([https://historicalnetworkresearch.org/](https://www.c2dh.uni.lu/))
+
+The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
+
+_____
+
 [<img src="/assets/img/institutions-logos/UBICS.jpg" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" height="200"/>]([https://historicalnetworkresearch.org/](https://ubics.ub.edu/index.php))
-[<img src="/assets/img/institutions-logos/lo_unil06_bleu.eps" alt="Université de Lausanne logo" height="200"/>]([https://historicalnetworkresearch.org/](https://www.unil.ch/index.html/))
+
+[Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
+
+_____
+
+[<img src="/assets/img/institutions-logos/lo_unil06_bleu.png" alt="Université de Lausanne logo" height="200"/>]([https://historicalnetworkresearch.org/](https://www.unil.ch/index.html/))
+
+[Université de Lausanne](https://www.unil.ch/index.html)
+
+_____
+
 [<img src="/assets/img/institutions-logos/aulogo_uk_var1_blue.png" alt="Aarhus University logo" height="200"/>]([https://historicalnetworkresearch.org/](https://international.au.dk/))
+
+[Aarhus University](https://international.au.dk/)
+
+_____
+
 [<img src="/assets/img/institutions-logos/IEG_Logo_hochaufloesend_mit-Schriftzug.jpg" alt="IEG logo" height="200"/>](https://www.ieg-mainz.de/)
+
+[Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/)
 
 <!-- Add links to people, Insert Logos here -->
