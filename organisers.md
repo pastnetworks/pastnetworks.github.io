@@ -2,7 +2,7 @@
 layout: page
 title: Organisers
 description: >
-last_modified_at: 2023-11-03
+last_modified_at: 2023-11-04
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
