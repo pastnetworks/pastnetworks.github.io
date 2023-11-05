@@ -43,6 +43,9 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/BPNSS_logo_square_white_background.png
 
+#favicon
+favicon: /favicon.ico
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
