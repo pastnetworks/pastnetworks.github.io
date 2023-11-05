@@ -55,7 +55,7 @@ _____
 
 ![Matteo Mazzamurro profile picture](/assets/img/organisers/Matteo_Mazzamurro.jpg)
 
-[Matteo Mazzamurro](https://pure.au.dk/portal/en/persons/matteo-mazzamurro(3193a753-85dd-4c20%-be05-c24b665f0d14).html), Aarhus University - Centre for Urban Network Evolutions 
+[Matteo Mazzamurro](https://pure.au.dk/portal/en/persons/matteo-mazzamurro(3193a753-85dd-4c30%-be05-c24b665f0d14).html), Aarhus University - Centre for Urban Network Evolutions 
 
 *Urban networks scientist interested in the evolution of social and transport connectivity.*
 
@@ -78,55 +78,55 @@ _____
 
 ## Made possible thanks to
 
-[<img src="/assets/img/institutions-logos/PSNP_logo.png" alt="Past Social Networks Project logo" width="20%"/>](https://projects.au.dk/pastnetworks) 
+[<img src="/assets/img/institutions-logos/PSNP_logo.png" alt="Past Social Networks Project logo" width="30%"/>](https://projects.au.dk/pastnetworks) 
 
 The [Past Social Networks Project](https://projects.au.dk/pastnetworks)
 
 _____
 
-[<img src="/assets/img/institutions-logos/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg logo" width="20%"/>](https://www.carlsbergfondet.dk/en)
+[<img src="/assets/img/institutions-logos/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg logo" width="30%"/>](https://www.carlsbergfondet.dk/en)
 
 The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)’s Young Researcher Fellowship (CF21-0382)
 
 _____
 
-[<img src="/assets/img/institutions-logos/connected-past-logo-long.jpg" alt="Connected Past logo" width="20%"/>](https://connectedpast.net/)
+[<img src="/assets/img/institutions-logos/connected-past-logo-long.jpg" alt="Connected Past logo" width="30%"/>](https://connectedpast.net/)
 
 The [Connected Past](https://connectedpast.net/)
 
 _____
 
-[<img src="/assets/img/institutions-logos/hnr_logo_vector.png" alt="Historical Network Research logo" width="20%"/>](https://historicalnetworkresearch.org/)
+[<img src="/assets/img/institutions-logos/hnr_logo_vector.png" alt="Historical Network Research logo" width="30%"/>](https://historicalnetworkresearch.org/)
 
 The [Historical Network Research Community](https://historicalnetworkresearch.org/) 
 
 _____
 
-[<img src="/assets/img/institutions-logos/c2dh-tile.jpg" alt="Luxembourg Centre for Contemporary and Digital History (C^2^DH) logo" width="20%"/>](https://www.c2dh.uni.lu/)
+[<img src="/assets/img/institutions-logos/c2dh-tile.jpg" alt="Luxembourg Centre for Contemporary and Digital History (C^2^DH) logo" width="30%"/>](https://www.c2dh.uni.lu/)
 
 The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
 
 _____
 
-[<img src="/assets/img/institutions-logos/UBICS.jpg" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" width="20%"/>](https://ubics.ub.edu/index.php)
+[<img src="/assets/img/institutions-logos/UBICS.jpg" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" width="30%"/>](https://ubics.ub.edu/index.php)
 
 [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
 
 _____
 
-[<img src="/assets/img/institutions-logos/lo_unil06_bleu.png" alt="Université de Lausanne logo" width="20%"/>](https://www.unil.ch/index.html/)
+[<img src="/assets/img/institutions-logos/lo_unil06_bleu.png" alt="Université de Lausanne logo" width="30%"/>](https://www.unil.ch/index.html/)
 
 [Université de Lausanne](https://www.unil.ch/index.html)
 
 _____
 
-[<img src="/assets/img/institutions-logos/aulogo_uk_var1_blue.png" alt="Aarhus University logo" width="20%"/>](https://international.au.dk/)
+[<img src="/assets/img/institutions-logos/aulogo_uk_var1_blue.png" alt="Aarhus University logo" width="30%"/>](https://international.au.dk/)
 
 [Aarhus University](https://international.au.dk/)
 
 _____
 
-[<img src="/assets/img/institutions-logos/IEG_Logo_hochaufloesend_mit-Schriftzug.jpg" alt="IEG logo" width="20%"/>](https://www.ieg-mainz.de/)
+[<img src="/assets/img/institutions-logos/IEG_Logo_hochaufloesend_mit-Schriftzug.jpg" alt="IEG logo" width="30%"/>](https://www.ieg-mainz.de/)
 
 [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/)
 
