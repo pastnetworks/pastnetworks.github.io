@@ -102,25 +102,25 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 
 _____
 
-[<img src="/assets/img/institutions-logos/c2dh-tile.jpg" alt="Luxembourg Centre for Contemporary and Digital History (C^2^DH) logo" width="20%"/>]([https://historicalnetworkresearch.org/](https://www.c2dh.uni.lu/))
+[<img src="/assets/img/institutions-logos/c2dh-tile.jpg" alt="Luxembourg Centre for Contemporary and Digital History (C^2^DH) logo" width="20%"/>](https://www.c2dh.uni.lu/)
 
 The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
 
 _____
 
-[<img src="/assets/img/institutions-logos/UBICS.jpg" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" width="20%"/>]([https://historicalnetworkresearch.org/](https://ubics.ub.edu/index.php))
+[<img src="/assets/img/institutions-logos/UBICS.jpg" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" width="20%"/>](https://ubics.ub.edu/index.php)
 
 [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
 
 _____
 
-[<img src="/assets/img/institutions-logos/lo_unil06_bleu.png" alt="Université de Lausanne logo" width="20%"/>]([https://historicalnetworkresearch.org/](https://www.unil.ch/index.html/))
+[<img src="/assets/img/institutions-logos/lo_unil06_bleu.png" alt="Université de Lausanne logo" width="20%"/>](https://www.unil.ch/index.html/)
 
 [Université de Lausanne](https://www.unil.ch/index.html)
 
 _____
 
-[<img src="/assets/img/institutions-logos/aulogo_uk_var1_blue.png" alt="Aarhus University logo" width="20%"/>]([https://historicalnetworkresearch.org/](https://international.au.dk/))
+[<img src="/assets/img/institutions-logos/aulogo_uk_var1_blue.png" alt="Aarhus University logo" width="20%"/>](https://international.au.dk/)
 
 [Aarhus University](https://international.au.dk/)
 
