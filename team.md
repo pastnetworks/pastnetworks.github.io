@@ -88,7 +88,7 @@ The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)’s Young Research
 
 _____
 
-[<img src="/assets/img/institutions-logos/connected-past-logo-long.jpg" alt="Connected Past logo" width="30%"/>](https://connectedpast.net/)
+[<img src="/assets/img/institutions-logos/connected-past-logo.jpg" alt="Connected Past logo" width="30%"/>](https://connectedpast.net/)
 
 The [Connected Past](https://connectedpast.net/)
 
