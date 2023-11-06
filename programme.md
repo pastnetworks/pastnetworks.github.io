@@ -37,14 +37,14 @@ The school is structured around theoretical lectures and computational practical
 *	Practical 6: Network visualization techniques 2: Gephi tutorial 
 *	Practical 7: Best practices: data and results deposition and documentation <!-- Introduction to individual / group projects -->
 
-### Day 4 – Projects and Critical Perspectives 
+### Day 4 – Projects & Critical Perspectives 
 
 *	Practical 8: Work on projects
 *	Lecture 4: Critical perspectives on historical and archaeological data <!-- Reflections on previous days content--> 
 *	Practical 9: Work on projects or elective advanced tutorial
 *	Practical 10: Work on projects or elective advanced tutorial 
 
-### Day 5 – Discussion and Moving Forward
+### Day 5 – Discussion & Moving Forward
 
 *	Developing your own future past network research projects. Discussion and evaluation
 *	How to take the next steps in the past networks community – conferences, resources and publications 
