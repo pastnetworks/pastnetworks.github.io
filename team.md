@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisers
+title: Team
 description: >
 last_modified_at: 2023-11-04
 no_link_title: false 
@@ -18,8 +18,6 @@ cover: true
 <!--* Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions --> <!-- UrbNet --> 
 <!--* Cindarella Petz, Leibniz Institute of European History --> <!-- IEG -->
 <!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
-
-
 
 ![Tom Brughmans profile picture](/assets/img/organisers/Tom_Brughmans.jpg)
 
