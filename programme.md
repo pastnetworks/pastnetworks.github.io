@@ -11,7 +11,7 @@ cover: true
 
 ##  At a glance
 
-The school is structured around theoretical lectures and computational practicals. 
+The school is structured around theoretical lectures and computational practicals, alongside many socials.
 
 ![Programme timetable of BPNSS 2024](/assets/img/programme_timetable.png)
 
@@ -21,7 +21,7 @@ The school is structured around theoretical lectures and computational practical
 
 * Opening social <!-- : Network “speed dating”-->
 * Lecture 1: Introduction to the summer school - what, why, and how of past network research
-* Practical 1: Computational basics - set up R, workspace, and read network data
+* Practical 1: Computational basics - set up coding workspace, and read network data
 
 ### Day 2 – Data & Methods
 
@@ -46,7 +46,7 @@ The school is structured around theoretical lectures and computational practical
 
 ### Day 5 – Discussion and Moving Forward
 
-*	Discuss on what one has learnt and support on how to apply it to future research projects
+*	Developing your own future past network research projects. Discussion and evaluation
 *	How to take the next steps in the past networks community – conferences, resources and publications 
 <!--*	Evaluation of the summer school -->
 <!--*	Social goodbyes --> 
