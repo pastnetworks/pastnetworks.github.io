@@ -20,7 +20,7 @@ Complete the [application form](/applicationform/).
 * Summer school dates: 25-29 June 2024
 
 ## Application process
-The application form includes a 400-word motivational statement that should clearly describe why you want to attend the BPNSS, and how you expect to benefit from the experience. No CV or other documentation is required. The submitted application forms will be reviewed by the [organizing committee](/organisers/), who will offer places and create a waiting list.
+The application form includes a 400-word motivational statement that should clearly describe why you want to attend the BPNSS, and how you expect to benefit from the experience. No CV or other documentation is required. The submitted application forms will be reviewed by the [organizing committee](/team/#people), who will offer places and create a waiting list.
 
 ## Registration fee
 The total registration fee is 75 EUR.
