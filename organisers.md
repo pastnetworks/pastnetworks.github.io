@@ -37,11 +37,11 @@ _____
 
 _____
 
-![Marten During profile picture](https://via.placeholder.com/400x400)
+![Marten During profile picture](/assets/img/organisers/Marten_During.jpg)
 
-[Marten Düring](https://martenduering.com/), Luxembourg Centre for Contemporary & Digital History
+[Marten Düring](https://www.c2dh.uni.lu/people/marten-during), Luxembourg Centre for Contemporary & Digital History
 
-*TBD*
+*Contemporary historian working on the intersection between historical thinking and computational methods.*
 
 _____
 
