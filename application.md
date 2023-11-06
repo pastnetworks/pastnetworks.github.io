@@ -39,11 +39,22 @@ The registration fee does not include the following, please make your own arrang
 * Dinners (excluding one social dinner)
 * Personal expenses at socials and during summer school
 
+## Bursaries
+
+The summer school is able to offer a small number of bursaries between 75 EUR and 300 EUR that can only be used to support expenses directly related to attending the Barcelona Past Networks Summer School. Eligible expenses include:
+* BPNSS registration fee
+* Accommodation during the summer school
+* Travel to and from the summer school
+
+### Bursary application procedure
+There is no separate bursary application procedure. You have to apply for a bursary alongside your application for the summer school, before the 21 January 2023 deadline.
+
+In the [application form](/applicationform/), answer “Yes” to the question “Do you want to be considered for a bursary?”. 
+Please describe in no more than 200 words your motivation for applying for a bursary.
+
 ## Financial Support
 
-This low registration fee is made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/organisers/), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
-
-A small number of [bursaries](/bursaries/) are available to support attendance.
+The low registration fee and the bursaries are made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/organisers/), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
 
 ## Privacy notice
 Your answers to the questions on the application form will be accessed by the organisers as part of the selection process. The information collected via the form will be stored securely in password-protected environments and will not be shared with others. The personal information on the motivation statement and bursary application statement will be stored only until the end of the selection process (29 February 2024). 
