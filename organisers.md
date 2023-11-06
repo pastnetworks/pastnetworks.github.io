@@ -104,7 +104,7 @@ _____
 
 [<img src="/assets/img/institutions-logos/c2dh-tile.jpg" alt="Luxembourg Centre for Contemporary and Digital History (C^2^DH) logo" width="30%"/>](https://www.c2dh.uni.lu/)
 
-The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
+The [Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH)](https://www.c2dh.uni.lu/) 
 
 _____
 
