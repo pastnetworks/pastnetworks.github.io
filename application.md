@@ -51,7 +51,7 @@ The summer school is able to offer a small number of bursaries between 75 EUR an
 ### Bursary application procedure
 There is no separate bursary application procedure. You have to apply for a bursary alongside your application for the summer school, before the 21 January 2023 deadline.
 
-In the [application form](/applicationform/), answer “Yes” to the question “Do you want to be considered for a bursary?”. 
+In the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link), answer “Yes” to the question “Do you want to be considered for a bursary?”. 
 Please describe in no more than 200 words your motivation for applying for a bursary.
 
 ## Financial Support
