@@ -54,7 +54,7 @@ Please describe in no more than 200 words your motivation for applying for a bur
 
 ## Financial Support
 
-The low registration fee and the bursaries are made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/organisers/), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
+The low registration fee and the bursaries are made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/team/), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
 
 ## Privacy notice
 Your answers to the questions on the application form will be accessed by the organisers as part of the selection process. The information collected via the form will be stored securely in password-protected environments and will not be shared with others. The personal information on the motivation statement and bursary application statement will be stored only until the end of the selection process (29 February 2024). 
