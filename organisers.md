@@ -25,7 +25,7 @@ cover: true
 
 [Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html), Aarhus University - Centre for Urban Network Evolutions  
 
-*TBD*
+*Archaeologist specialized in the economy of the Roman Empire and empirically reconstructed past social networks, all using network science methods.*
 
 _____
 
