@@ -39,3 +39,4 @@ No prior mathematical, computational or coding experience is needed, but a willi
 * [Université de Lausanne](https://www.unil.ch/index.html)
 * [Aarhus University](https://international.au.dk/)
 * [Leibniz-Institut für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/)
+* [Heuristica](https://www.heuristica.barcelona/)
