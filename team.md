@@ -47,7 +47,7 @@ _____
 
 [Martin Grandjean](https://www.martingrandjean.ch/), Université de Lausanne
 
-*Historian who explores the networks of large international archives.*
+*Contemporary historian exploring the networks of large international archives.*
 
 _____
 
