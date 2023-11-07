@@ -67,11 +67,11 @@ _____
 
 _____
 
-![Luce Prignano profile picture](https://via.placeholder.com/400x400)
+![Luce Prignano profile picture](/assets/img/organisers/Luce_Prignano.jpg)
 
-[Luce Prignano](https://www.dribia.com/team/phd-luce-prignano/), Universitat de Barcelona
+[Luce Prignano](https://luceprignano.wordpress.com/), Universitat de Barcelona
 
-*TBD*
+*Physicist working on and through social complexity.*
 
 
 ## Made possible thanks to
