@@ -128,4 +128,10 @@ _____
 
 [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/)
 
+_____
+
+[<img src="/assets/img/institutions-logos/square/heuristica.png" alt="Heuristica logo" width="30%"/>](https://www.heuristica.barcelona/)
+
+[Heuristica](https://www.heuristica.barcelona/)
+
 <!-- Add links to people, Insert Logos here -->
