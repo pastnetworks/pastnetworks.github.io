@@ -32,7 +32,6 @@ This includes:
 * All coffee and tea breaks
 * Organised social events
 * One dinner
-* All educational materials and lectures
 
 The registration fee can only be paid once you have been offered a place in the summer school. Only online card payments will be accepted (no cash or cheques).
 The registration fee does not include the following, please make your own arrangements for these:
