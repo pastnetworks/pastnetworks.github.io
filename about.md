@@ -34,7 +34,7 @@ No prior mathematical, computational or coding experience is needed, but a willi
 * The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en)’s Young Researcher Fellowship (CF21-0382) 
 * The [Connected Past](https://connectedpast.net/)
 * The [Historical Network Research](https://historicalnetworkresearch.org/) community 
-* The [Luxembourg Centre for Contemporary and Digital History (C^2^DH)](https://www.c2dh.uni.lu/)
+* The [Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH)](https://www.c2dh.uni.lu/)
 * [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
 * [Université de Lausanne](https://www.unil.ch/index.html)
 * [Aarhus University](https://international.au.dk/)
