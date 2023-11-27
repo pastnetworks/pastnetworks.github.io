@@ -12,7 +12,7 @@ cover: true
 The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the 21 January 2024 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR registration fee.
 
 <!--Complete the [application form](/applicationform/).-->
-Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link)
+Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link).
 
 
 ## Important Dates
