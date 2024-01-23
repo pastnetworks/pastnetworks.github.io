@@ -9,14 +9,15 @@ hide_image: false
 cover: true
 ---
 
-The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the 21 January 2024 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR registration fee.
+The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the ~21 January 2024~ 31 January 2024 extended deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR registration fee.
 
 <!--Complete the [application form](/applicationform/).-->
 Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link).
 
 
 ## Important Dates
-* Application deadline: 21 January 2024
+* ~Application deadline: 21 January 2024~
+* Extended deadline: 31 January 2024
 * Conditional offer of place in summer school: 9 February 2024
 * Registration fee payment deadline: 29 February 2024
 * Summer school dates: 25-29 June 2024
@@ -48,7 +49,7 @@ The summer school is able to offer a small number of bursaries between 75 EUR an
 * Travel to and from the summer school
 
 ### Bursary application procedure
-There is no separate bursary application procedure. You have to apply for a bursary alongside your application for the summer school, before the 21 January 2023 deadline.
+There is no separate bursary application procedure. You have to apply for a bursary alongside your application for the summer school, before the ~21 January 2023~ 31 January 2024 extended deadline.
 
 In the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link), answer “Yes” to the question “Do you want to be considered for a bursary?”. 
 Please describe in no more than 200 words your motivation for applying for a bursary.
