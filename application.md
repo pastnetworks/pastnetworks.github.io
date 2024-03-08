@@ -32,7 +32,7 @@ This is a free event and there is no registration fee. Registration includes:
 * One dinner
 * All academic content and materials
 
-The school includes four lunches for which a 75 EUR lunch fee needs to be paid at the registration phase. The lunch fee can only be paid once you have been offered a place in the summer school. Only online card payments will be accepted (no cash or cheques).
+The school includes four lunches for which a 75 EUR lunch fee needs to be paid at the registration phase. The lunch fee can only be paid once you have been offered a place in the summer school. Only bank transfers will be accepted (no cash or cheques).
 
 Participants need to make their own arrangements for:
 * Accommodation during the summer school
