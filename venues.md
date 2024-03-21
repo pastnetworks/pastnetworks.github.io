@@ -11,7 +11,7 @@ cover: true
 
 ## Venues
 On the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
-The full address of the centre is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
+The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
 
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.3707234700228!2d2.17970825470104!3d41.387754731521845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2fdb3315f35%3A0x70fcd6195aabf3f!2sCentre%20C%C3%ADvic%20Convent%20de%20Sant%20Agust%C3%AD!5e0!3m2!1sen!2suk!4v1711034064237!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
