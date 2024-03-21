@@ -35,7 +35,7 @@ The University of Barcelona Physics Faculty is right by the metro stop Palau Rei
 More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).  
 
 ## Accommodation
-As the venue can be easily reached by a short metro or bus ride from anywhere in the city, there is no strict need to find accommodation near the venues. 
+As the venues can be easily reached by a short metro or bus ride from anywhere in the city, there is no strict need to find accommodation near them. 
 Barcelona offers a variety of accommodation options depending on individual needs.
 
 Further details on accommodation opportunities near the Barcelona Physics Faculty will be available to participants and shared with them via email. 
