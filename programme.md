@@ -32,8 +32,8 @@ The school is structured around theoretical lectures and computational practical
 
 ### Day 3 – How to tackle a project?
 
-*	Practical 5: Networks as a model, a tool to gain insight into phenomena and data
 *	Lecture 3: Research design <!-- Group of lectures share their experiences followed by a Q & A -->
+*	Practical 5: Networks as a model, a tool to gain insight into phenomena and data- Poster creation.
 *	Practical 6: Network visualization techniques 2: Gephi tutorial 
 *	Practical 7: Best practices: data and results deposition and documentation <!-- Introduction to individual / group projects -->
 
