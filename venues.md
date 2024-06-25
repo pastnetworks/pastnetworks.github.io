@@ -20,7 +20,7 @@ The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain.
 More information on the Centre Cívic Convent de Sant Agustí is available (in Catalan and Castillan Spanish) [here](https://ajuntament.barcelona.cat/centrescivics/ca/centre-civic/centre-civic-convent-de-sant-agusti).
 
 The lectures from Wednesday 26th to Friday 28th will take place in the University of Barcelona Physics Faculty. 
-The full address is Carrer de Martí i Franquès, 1-11, 08028 Barcelona, Spain.
+The full address is Carrer de Martí i Franquès, 1-11, 08028 Barcelona, Spain. The room for Wednesday 26th will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo.
 
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2116.712571243211!2d2.1144459747451583!3d41.38530238222389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985939f1ab75%3A0x51254092607919e3!2sFacultat%20de%20F%C3%ADsica%20-%20Universitat%20de%20Barcelona!5e0!3m2!1sen!2suk!4v1711034144196!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
