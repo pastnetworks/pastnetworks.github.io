@@ -9,8 +9,11 @@ hide_image: false
 cover: true
 ---
 
-## Venues
-On the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
+## Venues 2024 edition
+The venues for the 2025 edition are to be determined. 
+
+
+In 2024, the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
 The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
 
 <div class="google-map">
