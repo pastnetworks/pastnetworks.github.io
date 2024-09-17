@@ -11,11 +11,11 @@ cover: true
 
 ## People
 
-<!-- * Tom Brughmans, Aarhus University - Centre for Urban Network Evolutions> <!-- UrbNet --> 
+<!-- * Tom Brughmans, Aarhus University - Social Resilience Lab> <!-- UrbNet --> 
 <!--* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems --> <!-- UB ICS -->
 <!--* Marten Düring, Luxembourg Centre for Contemporary & Digital History --> <!-- C2DH -->
 <!--* Martin Grandjean, Université de Lausanne --> <!-- UNIL -->
-<!--* Matteo Mazzamurro, Aarhus University - Centre for Urban Network Evolutions --> <!-- UrbNet --> 
+<!--* Matteo Mazzamurro, Aarhus University - Social Resilience Lab --> <!-- UrbNet --> 
 <!--* Cindarella Petz, Leibniz Institute of European History --> <!-- IEG -->
 <!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
 
@@ -53,7 +53,7 @@ _____
 
 ![Matteo Mazzamurro profile picture](/assets/img/organisers/Matteo_Mazzamurro.jpg)
 
-[Matteo Mazzamurro](https://pure.au.dk/portal/en/persons/matteo-mazzamurro(3193a753-85dd-4c30%-be05-c24b665f0d14).html), Aarhus University - Centre for Urban Network Evolutions 
+[Matteo Mazzamurro](https://pure.au.dk/portal/en/persons/m.mazzamurro%40cas.au.dk), Aarhus University - Centre for Urban Network Evolutions 
 
 *Urban networks scientist interested in the evolution of social and transport connectivity.*
 
