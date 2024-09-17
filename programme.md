@@ -11,6 +11,10 @@ cover: true
 
 ##  At a glance
 
+The programme for the 2025 edition is under definition. Please have a look at the previous edition HERE (insert link)
+
+
+
 The school is structured around theoretical lectures and computational practicals, alongside many socials.
 
 ![Programme timetable of BPNSS 2024](/assets/img/programme_timetable.png)
@@ -25,7 +29,7 @@ The school is structured around theoretical lectures and computational practical
 
 ### Day 2 – Data & Methods
 
-*	Practical session 2: How to obtain, create, and clean network data 
+*	Practical 2: How to obtain, create, and clean network data 
 *	Lecture 2: Network analysis and methods
 *	Practical 3: Exploratory network analysis 
 *	Practical 4: Network visualization techniques 1: plotline/ggplot2 
