@@ -13,7 +13,7 @@ cover: true
 The venues for the 2025 edition are to be determined. 
 
 
-In 2024, the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
+<!-- In 2024, the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
 The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
 
 <div class="google-map">
@@ -72,4 +72,4 @@ The faculty building’s entrance doors can be reached via street level or ramps
 The metro stops Arc de Triomf, Jaume I, Palau Reial and Liceu are all wheelchair accessible. A [map](https://disabledaccessibletravel.com/how_to_metro_in_barcelona/) of all the accessible stations in the Barcelona metro is available.
 
 If you have any concerns about accessibility, please do not hesitate to send us an email. 
-We will share our phone numbers with you and a member of the team will always be available to provide support if needed.
+We will share our phone numbers with you and a member of the team will always be available to provide support if needed. -->
