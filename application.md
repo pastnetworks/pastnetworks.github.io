@@ -9,10 +9,11 @@ hide_image: false
 cover: true
 ---
 
-The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the ~~21 January 2024~~ 31 January 2024 extended deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR lunch fee.
+The call for applications will open in December 2025. 
 
-<!--Complete the [application form](/applicationform/).-->
-Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link).
+<!-- The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) from 25 to 29 June 2024. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the ~~21 January 2024~~ 31 January 2024 extended deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR lunch fee. 
+
+Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link). 
 
 
 ## Important Dates
@@ -20,7 +21,7 @@ Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSx
 * ~~Extended deadline: 31 January 2024~~
 * Conditional offer of place in summer school: 9 February 2024
 * Registration fee payment deadline: 29 February 2024
-* Summer school dates: 25-29 June 2024
+* Summer school dates: 25-29 June 2024 >
 
 ## Application process
 The application form includes a 400-word motivational statement that should clearly describe why you want to attend the BPNSS, and how you expect to benefit from the experience. No CV or other documentation is required. The submitted application forms will be reviewed by the [organizing committee](/team/#people), who will offer places and create a waiting list.
@@ -63,4 +64,4 @@ Your answers to the questions on the application form will be accessed by the or
 <!--A willingness to learn, as expressed in the motivational statement, is the primary criterion of evaluation.--> 
 Personal information is collected to ensure a balanced mix of participants in terms of gender, disciplinary background, career level, and country of residence. The same information will be retained in an anonymised form to ensure that the future editions of the summer school can be improved based upon the experience of the previous years. 
 
-At any point, you may contact the organisers should you wish your data to be erased.   
+At any point, you may contact the organisers should you wish your data to be erased.  -->
