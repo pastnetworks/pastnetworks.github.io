@@ -17,8 +17,8 @@ cover: true
 *	No prior computational skills required, but willingness to learn
 
 ## Details
-Network approaches are commonly used in diverse studies of the human past: analyzing letter correspondence in 16th century England, mapping the similarity of material culture in the prehispanic US Southwest, reconstructing ancient Roman family ties as revealed through funerary inscriptions, and much more.
-Such research is supported by thriving international [communities](https://historicalnetworkresearch.org/), [conference series](https://connectedpast.net/), a [journal](https://jhnr.uni.lu/index.php/jhnr), and [textbooks](https://archnetworks.net/). But dedicated training in the theory and practice of network research is missing in most history and archaeology degree programmes.
+Network approaches are commonly used in diverse studies of the human past. For example, analyzing letter correspondence in 16th century England, mapping the similarity of material culture in the prehispanic US Southwest, reconstructing ancient Roman family ties as revealed through funerary inscriptions, and much more.
+Such research is supported by thriving international [communities](https://historicalnetworkresearch.org/), [conference series](https://connectedpast.net/), a [journal](https://jhnr.net), and [textbooks](https://archnetworks.net/). But dedicated training in the theory and practice of network research is missing in most history and archaeology degree programmes.
 
 The Barcelona Past Networks Summer School addresses this educational gap. 
 It provides an annually recurring opportunity to learn what network research is, how it can be usefully and critically applied to the study of the human past, through hands-on practicals and critical lectures. 
