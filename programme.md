@@ -11,10 +11,9 @@ cover: true
 
 ##  At a glance
 
-The programme for the 2025 edition is under definition. Please have a look at the programme of the [previous edition](/pasteditions/).
+The programme for the 2025 edition is under definition. For general information, please have a look at the programme of the [2024 edition](/pasteditions/). 
 
-
-The school is structured around theoretical lectures and computational practicals, alongside many socials.
+<!-- The school is structured around theoretical lectures and computational practicals, alongside many socials.
 
 ![Programme timetable of BPNSS 2024](/assets/img/programme_timetable.png)
 
@@ -22,7 +21,7 @@ The school is structured around theoretical lectures and computational practical
 
 ### Day 1 – Welcome & Introduction 
 
-* Opening social <!-- : Network “speed dating”-->
+* Opening social
 * Lecture 1: Introduction to the summer school - what, why, and how of past network research
 * Practical 1: Computational basics - set up coding workspace, and read network data
 
@@ -35,15 +34,15 @@ The school is structured around theoretical lectures and computational practical
 
 ### Day 3 – How to tackle a project?
 
-*	Lecture 3: Research design <!-- Group of lectures share their experiences followed by a Q & A -->
+*	Lecture 3: Research design 
 *	Practical 5: Networks as a model, a tool to gain insight into phenomena and data. Poster creation
 *	Practical 6: Network visualization techniques 2: Gephi tutorial 
-*	Practical 7: Best practices: data and results deposition and documentation <!-- Introduction to individual / group projects -->
+*	Practical 7: Best practices: data and results deposition and documentation
 
 ### Day 4 – Projects & Critical Perspectives 
 
 *	Practical 8: Work on projects
-*	Lecture 4: Critical perspectives on historical and archaeological data <!-- Reflections on previous days content--> 
+*	Lecture 4: Critical perspectives on historical and archaeological data 
 *	Practical 9: Work on projects or elective advanced tutorial
 *	Practical 10: Work on projects or elective advanced tutorial 
 
@@ -51,5 +50,4 @@ The school is structured around theoretical lectures and computational practical
 
 *	Developing your own future past network research projects. Discussion and evaluation
 *	How to take the next steps in the past networks community – conferences, resources and publications 
-<!--*	Evaluation of the summer school -->
-<!--*	Social goodbyes --> 
+-->
