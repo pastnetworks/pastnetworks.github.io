@@ -11,7 +11,7 @@ cover: true
 
 ##  At a glance
 
-The programme for the 2025 edition is under definition. For general information, please have a look at the programme of the [2024 edition](/pasteditions/). 
+The programme for the 2025 edition is under definition. For general information, please have a look at the programme of the [2024 edition](/pasteditions/#venues 2024). 
 
 <!-- The school is structured around theoretical lectures and computational practicals, alongside many socials.
 
