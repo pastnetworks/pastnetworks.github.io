@@ -11,7 +11,7 @@ cover: true
 
 ## At a glance
 
-* Annual 5-day summer school in Barcelona (25-29 June 2024)
+* Annual 5-day summer school in Barcelona (June-July 2025)
 *	Teaching the theory and practice of network research 
 *	For those studying the human past (historians, archaeologists, classicists, …)
 *	No prior computational skills required, but willingness to learn
