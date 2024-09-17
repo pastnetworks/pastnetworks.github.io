@@ -24,8 +24,6 @@ The school is structured around theoretical lectures and computational practical
 
 ![Programme timetable of BPNSS 2024](/assets/img/programme_timetable.png)
 
-##  Detailed programme
-
 ### Day 1 – Welcome & Introduction 
 
 * Opening social
