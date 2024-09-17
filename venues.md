@@ -10,7 +10,7 @@ cover: true
 ---
 
 ## Venues 
-The venues for the 2025 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the 2024 edition took place.
+The venues for the 2025 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the [2024 edition](/pasteditions/) took place.
 
 <!-- In 2024, the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
 The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
