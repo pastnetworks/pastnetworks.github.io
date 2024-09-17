@@ -11,14 +11,14 @@ cover: true
 
 ## At a glance
 
-* Annual 5-day summer school in Barcelona (25-29 June 2024)
+* Annual 5-day summer school in Barcelona (June-July 2025)
 *	Teaching the theory and practice of network research 
 *	For those studying the human past (historians, archaeologists, classicists, …)
 *	No prior computational skills required, but willingness to learn
 
 ## Details
-Network approaches are commonly used in diverse studies of the human past: analyzing letter correspondence in 16th century England, mapping the similarity of material culture in the prehispanic US Southwest, reconstructing ancient Roman family ties as revealed through funerary inscriptions, and much more.
-Such research is supported by thriving international [communities](https://historicalnetworkresearch.org/), [conference series](https://connectedpast.net/), a [journal](https://jhnr.uni.lu/index.php/jhnr), and [textbooks](https://archnetworks.net/). But dedicated training in the theory and practice of network research is missing in most history and archaeology degree programmes.
+Network approaches are commonly used in diverse studies of the human past. For example, analyzing letter correspondence in 16th century England, mapping the similarity of material culture in the prehispanic US Southwest, reconstructing ancient Roman family ties as revealed through funerary inscriptions, and much more.
+Such research is supported by thriving international [communities](https://historicalnetworkresearch.org/), [conference series](https://connectedpast.net/), a [journal](https://jhnr.net), and [textbooks](https://archnetworks.net/). But dedicated training in the theory and practice of network research is missing in most history and archaeology degree programmes.
 
 The Barcelona Past Networks Summer School addresses this educational gap. 
 It provides an annually recurring opportunity to learn what network research is, how it can be usefully and critically applied to the study of the human past, through hands-on practicals and critical lectures. 
@@ -35,7 +35,7 @@ No prior mathematical, computational or coding experience is needed, but a willi
 * The [Connected Past](https://connectedpast.net/)
 * The [Historical Network Research](https://historicalnetworkresearch.org/) community 
 * The [Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH)](https://www.c2dh.uni.lu/)
-* [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
+* [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.net) 
 * [Université de Lausanne](https://www.unil.ch/index.html)
 * [Aarhus University](https://international.au.dk/)
 * [Leibniz-Institut für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/)
