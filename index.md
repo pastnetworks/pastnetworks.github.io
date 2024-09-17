@@ -35,7 +35,7 @@ No prior mathematical, computational or coding experience is needed, but a willi
 * The [Connected Past](https://connectedpast.net/)
 * The [Historical Network Research](https://historicalnetworkresearch.org/) community 
 * The [Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH)](https://www.c2dh.uni.lu/)
-* [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
+* [Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.net) 
 * [Université de Lausanne](https://www.unil.ch/index.html)
 * [Aarhus University](https://international.au.dk/)
 * [Leibniz-Institut für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/)
