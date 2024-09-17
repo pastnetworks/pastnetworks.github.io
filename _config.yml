@@ -54,7 +54,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about/
+    url:               /index/
   - title:             Team
     url:               /team/
   - title:             Programme
