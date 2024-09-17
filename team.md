@@ -106,13 +106,13 @@ The [Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH)](h
 
 _____
 
-[<img src="/assets/img/institutions-logos/square/UBICS.png" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" width="30%"/>](https://ubics.ub.edu/index.php)
+[<img src="/assets/img/institutions-logos/square/UBICS.png" alt="Universitat de Barcelona Institute of Complex Systems (UBICS) logo" width="30%"/>](https://ubics.net)
 
-[Universitat de Barcelona Institute of Complex Systems (UBICS)](http://ubics.ub.edu/index.php) 
+[Universitat de Barcelona Institute of Complex Systems (UBICS)](https://ubics.net) 
 
 _____
 
-[<img src="/assets/img/institutions-logos/square/lo_unil06_bleu.png" alt="Université de Lausanne logo" width="30%"/>](https://www.unil.ch/index.html/)
+[<img src="/assets/img/institutions-logos/square/lo_unil06_bleu.png" alt="Université de Lausanne logo" width="30%"/>](https://www.unil.ch/index.html)
 
 [Université de Lausanne](https://www.unil.ch/index.html)
 
