@@ -11,7 +11,7 @@ cover: true
 
 ##  At a glance
 
-The programme for the 2025 edition is under definition. Please have a look at the previous edition HERE (insert link)
+The programme for the 2025 edition is under definition. Please have a look at the programme of the previous edition HERE (insert link)
 
 
 
