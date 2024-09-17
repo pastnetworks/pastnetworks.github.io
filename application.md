@@ -61,7 +61,6 @@ The free event and the bursaries are made possible thanks to our lecturers donat
 ## Privacy notice
 Your answers to the questions on the application form will be accessed by the organisers as part of the selection process. The information collected via the form will be stored securely in password-protected environments and will not be shared with others. The personal information on the motivation statement and bursary application statement will be stored only until the end of the selection process (29 February 2024). 
 
-<!--A willingness to learn, as expressed in the motivational statement, is the primary criterion of evaluation.--> 
 Personal information is collected to ensure a balanced mix of participants in terms of gender, disciplinary background, career level, and country of residence. The same information will be retained in an anonymised form to ensure that the future editions of the summer school can be improved based upon the experience of the previous years. 
 
 At any point, you may contact the organisers should you wish your data to be erased.  -->
