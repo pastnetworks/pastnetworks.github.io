@@ -11,10 +11,11 @@ cover: true
 
 ## People
 
-<!-- * Tom Brughmans, Aarhus University - Social Resilience Lab> <!-- UrbNet --> 
+<!--* Tom Brughmans, Aarhus University - Social Resilience Lab> <!-- UrbNet --> 
 <!--* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems --> <!-- UB ICS -->
 <!--* Marten Düring, Luxembourg Centre for Contemporary & Digital History --> <!-- C2DH -->
 <!--* Martin Grandjean, Université de Lausanne --> <!-- UNIL -->
+<!--* Sergi Lozano, Universitat de Barcelona - Institute of Complex Systems> <!-- UB ICS --> 
 <!--* Matteo Mazzamurro, Aarhus University - Social Resilience Lab --> <!-- UrbNet --> 
 <!--* Cindarella Petz, Leibniz Institute of European History --> <!-- IEG -->
 <!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
@@ -48,6 +49,14 @@ _____
 [Martin Grandjean](https://www.martingrandjean.ch/), Université de Lausanne
 
 *Contemporary historian exploring the networks of large international archives.*
+
+_____
+
+![Sergi Lozano profile picture](/assets/img/organisers/Sergi_Lozano.jpg)
+
+[Sergi Lozano](https://www.ub.edu/school-economics/researchers/lozano-sergi/), Universitat de Barcelona - Institute of Complex Systems  
+
+*Complexity scientist interested in past socio-economic phenomena.*
 
 _____
 
