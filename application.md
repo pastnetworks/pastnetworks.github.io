@@ -18,7 +18,7 @@ Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSx
 * Application deadline: 26 January 2025
 * Conditional offer of place in summer school: 10 February 2025
 * Registration fee payment deadline: 3 March 2025
-* Summer school dates: 1-4 July 2025 >
+* Summer school dates: 1-4 July 2025
 
 ## Application process
 The application form includes a 400-word motivational statement that should clearly describe why you want to attend the BPNSS, and how you expect to benefit from the experience. No CV or other documentation is required. The submitted application forms will be reviewed by the [organizing committee](/team/#people), who will offer places and create a waiting list.
