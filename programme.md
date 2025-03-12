@@ -16,55 +16,36 @@ The 4-day programme will consist of lectures and discussions, hands-on practical
 
 ##  Lectures overview
 ### Day 1
-<html>
-<head>
-    <title>Day 1 Schedule</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-    <h2>Day 1: Welcome and Introduction</h2>
-    <table>
-        <tr>
-            <th>Class/Event</th>
-            <th>Description</th>
-            <th>Lecturer</th>
-        </tr>
-        <tr>
-            <td>Welcome</td>
-            <td>Network speed dating</td>
-            <td>Martin</td>
-        </tr>
-        <tr>
-            <td>Lecture 1</td>
-            <td>Introduction to network analysis in history and archaeology</td>
-            <td>Tom</td>
-        </tr>
-        <tr>
-            <td>Practical 1</td>
-            <td>Network research with Gephi</td>
-            <td>Martin</td>
-        </tr>
-        <tr>
-            <td>Lecture 2</td>
-            <td>Introduction to network metrics</td>
-            <td>Albert</td>
-        </tr>
-    </table>
-</body>
-</html>
+# Day 1: Welcome and Introduction
+
+| Class/Event  | Description                                                   | Lecturer |
+|-------------|---------------------------------------------------------------|----------|
+| **Welcome**  | Network speed dating                                         | Martin   |
+| **Lecture 1** | Introduction to network analysis in history and archaeology | Tom      |
+| **Practical 1** | Network research with Gephi                             | Martin   |
+| **Lecture 2** | Introduction to network metrics                            | Albert   |
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+</style>
+
 
 
 ##  Practicals
