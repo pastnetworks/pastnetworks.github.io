@@ -44,6 +44,26 @@ The 4-day programme will consist of lectures and discussions, hands-on practical
 | **Lecture 2** | Introduction to network metrics                            | Albert   |
 
 ### Day 2
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+</style>
 | Class/Event  | Description                                                   | Lecturer |
 |-------------|---------------------------------------------------------------|----------|
 | **Lecture 3**  | Network metrics in practice: Introduction of historical case study for Gephi practical                                        | Martin   |
@@ -52,6 +72,26 @@ The 4-day programme will consist of lectures and discussions, hands-on practical
 | **Practical 3** | R: Installing, workspace, libraries, data                            | Tom and Matteo   |
 
 ### Day 3
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+</style>
 | Class/Event  | Description                                                   | Lecturer |
 |-------------|---------------------------------------------------------------|----------|
 | **Lecture 5**  | Introduction to the case study of the R practical                                        | Tom   |
@@ -60,6 +100,26 @@ The 4-day programme will consist of lectures and discussions, hands-on practical
 | **Practical 5** | Networks as a model, a tool to gain insight into phenomena and data. Poster creation                            | Cindarella   |
 
 ### Day 4: Projects & critical perspectives
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+</style>
 | Class/Event  | Description                                                   | Lecturer |
 |-------------|---------------------------------------------------------------|----------|
 | **Practical 6**  | R practical 2: : network analysis of Roman roads, significance of results                                        | Tom and Matteo  |
