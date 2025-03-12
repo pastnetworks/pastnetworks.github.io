@@ -11,7 +11,7 @@ cover: true
 
 ##  At a glance
 
-The 4-day programme will consist of lectures and discussions, hands-on practicals, and socials.
+The 4-day programme consists of lectures and discussions, hands-on practicals, and socials.
 ![Programme timetable of BPNSS 2025](/assets/img/programme_timetable_2025.png)
 
 ##  Lectures overview
