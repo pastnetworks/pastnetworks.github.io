@@ -97,7 +97,7 @@ The 4-day programme consists of lectures and discussions, hands-on practicals, a
 | **Lecture 5**  | Introduction to the case study of the R practical                                        | Tom   |
 | **Practical 4** | R practical 1: network analysis of Roman roads | Tom and Matteo      |
 | **Lecture 6** | Research design                            | Cindarella   |
-| **Practical 5** | Networks as a model, a tool to gain insight into phenomena and data. Poster creation                            | Cindarella   |
+| **Practical 5** | Networks as a model, a tool to gain insight into phenomena and data. Poster creation                            | Cindarella and Iza |
 
 ### Day 4: Projects & critical perspectives
 <style>
@@ -126,5 +126,24 @@ The 4-day programme consists of lectures and discussions, hands-on practicals, a
 | **Lecture 7** | Next steps for the case study: theories, models and methods | Tom      |
 | **Practical 7** | Best practices: data and results deposition and documentation                            | Matteo   |
 | **Lecture 8** | Critical Perspectives                            | Cindarella   |
-| **Lecture 9** | Overcome failure stories                            | Everybody   |
+| **Lecture 9** | Reality Check                            | Everybody   |
 | **Wrap up** | Next steps, conferences, resources, publications and evaluation reminder                            | Everybody   |
+
+
+##  Preparations for the BPNSS 2025:
+
+As part of your preparation, please follow the instructions below to ensure that you are ready to engage fully in the program.
+
+Remember the following:
+* Laptop with administrator rights in case you need to install software or packages on the fly. Please note that tablets cannot be used for the practicals of the summer school!
+* Laptop charger cable.
+
+Preparations:
+* Please install Gephi https://gephi.org/
+* Please install both R and RStudio separately: follow 1.1-1.3 of this tutorial https://book.archnetworks.net/gettingstarted On that page you will find download links for R (which needs to be installed first) and R Studio and all instructions you need.
+* (optional) In RStudio, consider already installing all packages that could be used in the tutorials, see section 2.3.  https://book.archnetworks.net/dataandworkspace#PrimaryPackagesPlease (this is particularly valuable for those with restricted administrator rights on their laptops)
+*	Also check the suggested workspace setup in section 2.4 here https://book.archnetworks.net/dataandworkspace#WorkspaceSetup
+*	(optional) Feel free to get familiar with RStudio by doing the rest of that tutorial 1.4-1.11.
+Prior reading and resources:
+*	Check out this BPNSS document if you would like to do some reading ahead of the summer school, watch some tutorial videos, or explore the resources of our community: https://docs.google.com/document/d/1e4UwRiMOHDkpwfnVBH-fzylnya2-AlEV7fBhDj5lnyE/edit?usp=sharing
+
