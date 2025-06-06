@@ -140,7 +140,7 @@ Remember the following:
 
 Preparations:
 * Please install Gephi https://gephi.org/
-* Please install both R and RStudio separately: follow 1.1-1.3 of this tutorial https://book.archnetworks.net/gettingstarted On that page you will find download links for R (which needs to be installed first) and R Studio and all instructions you need.
+* Please install both R and RStudio separately: follow 1.1-1.3 of this tutorial https://book.archnetworks.net/gettingstarted. On that page you will find download links for R (which needs to be installed first) and R Studio and all instructions you need.
 * (optional) In RStudio, consider already installing all packages that could be used in the tutorials, see section 2.3.  https://book.archnetworks.net/dataandworkspace#PrimaryPackagesPlease (this is particularly valuable for those with restricted administrator rights on their laptops)
 *	Also check the suggested workspace setup in section 2.4 here https://book.archnetworks.net/dataandworkspace#WorkspaceSetup
 *	(optional) Feel free to get familiar with RStudio by doing the rest of that tutorial 1.4-1.11.
