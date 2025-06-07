@@ -13,7 +13,7 @@ cover: true
 The opening day of the school (Tuesday 1st July) will take place in the Sala d'Actes at the Centre Civic Drassanes, in  the city centre of Barcelona. 
 
 <div class="google-map">
-   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.825514382303!2d2.170245976618239!3d41.377575496602795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a259b084b847%3A0xc20542cb61d36342!2sCentre%20C%C3%ADvic%20Drassanes!5e1!3m2!1sen!2suk!4v1749315237869!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.0148129249365!2d2.171608696388976!3d41.37879532610883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a259b084b847%3A0xc20542cb61d36342!2sCentre%20C%C3%ADvic%20Drassanes!5e0!3m2!1sen!2suk!4v1749316181227!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 The lectures from Wednesday 2nd to Friday 4th July will take place in the University of Barcelona Physics Faculty. 
