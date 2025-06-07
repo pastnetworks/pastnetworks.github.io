@@ -43,14 +43,11 @@ The venue serves a diverse and exciting range of Mexican + Tex Mex foods and dri
 We need to arrive as one group, so the historical tour will end in this venue. 
 This activity is optional. We made a booking for 25 people and the majority should order food.
 
-Wednesday 2nd July, we will book a group table at 19:30 in Fàbrica Moritz Barcelona, located at Rda. de Sant Antoni, 41, L'Eixample, 08011 Barcelona (venue to be confirmed). 
+Wednesday 2nd July, we will book a group table at 19:30 somewhere (to be announced). 
 This is an optional activity at your own expense, but we will book a group table.    
 
-<div class="google-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.2272467065145!2d2.160777276059385!3d41.382673971300385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a28ac1c7d247%3A0x200341909d1e7213!2sF%C3%A0brica%20Moritz%20Barcelona!5e0!3m2!1sen!2suk!4v1741716080132!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
-The closing dinner will take place on Thursday 3rd July at 19:30 in the restaurant Buenissimo, located at Carrer d'En Bot, 4, Ciutat Vella, 08002 Barcelona (venue to be confirmed).
+The closing dinner will take place on Thursday 3rd July at 19:30 in the restaurant Buenissimo, located at Carrer d'En Bot, 4, Ciutat Vella, 08002 Barcelona.
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d187.09658185741372!2d2.1723376!3d41.3839625!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2876851bad3%3A0x4447b4b703931cf3!2sBUENISSIMO!5e0!3m2!1sen!2suk!4v1718714051515!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
