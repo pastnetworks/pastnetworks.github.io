@@ -61,8 +61,9 @@ We will book a three course menu with diverse options, and including all drinks.
 
 ## Transportation
 <!--The Centre Cívic Convent de Sant Agustí is in the city centre of Barcelona, less than 600 meters from the metro stations Arc de Triomf (red line L1) and Jaume I (yellow line L4) and with several bus stops nearby.-->
-The city center is easily accessible by metro. Once the venue for the first day of the school is announced, we will provide more information here. 
-The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green L3). 
+The city center is easily accessible by metro.
+The Centre Civic Drassanes is in the city centre, 350 meters from the metro station Drassanes (green line L3), and 400 meters from the metro station Paral·lel (served by both the green line L3 and the lilac line L2). 
+The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). 
 
 La Hacienda Princesa is placed in the city centre. The historical tour will end at the venue. Further information on this to be announced. 
 
@@ -79,7 +80,7 @@ If you consented to sharing your email with other participants to coordinate joi
 The Physics Faculty is wheelchair accessible. 
 The faculty building’s entrance doors can be reached via street level or ramps, but they do not have a function for automatically opening the doors. 
 
-The metro stops Arc de Triomf, Jaume I, Palau Reial and Liceu are all wheelchair accessible. A [map](https://disabledaccessibletravel.com/how_to_metro_in_barcelona/) of all the accessible stations in the Barcelona metro is available.
+The metro stops Drassanes, Paral·lel, Arc de Triomf, Jaume I, Palau Reial and Liceu are all wheelchair accessible. A [map](https://disabledaccessibletravel.com/how_to_metro_in_barcelona/) of all the accessible stations in the Barcelona metro is available.
 
 If you have any concerns about accessibility, please do not hesitate to send us an email. 
 We will share our phone numbers with you and a member of the team will always be available to provide support if needed.
