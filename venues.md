@@ -10,10 +10,14 @@ cover: true
 ---
 
 ## Venues
-The opening day of the school (Tuesday 1st July) will take place in in the city centre of Barcelona (venue to be announced). 
+The opening day of the school (Tuesday 1st July) will take place in the Sala d'Actes at the Centre Civic Drassanes, in  the city centre of Barcelona. 
+
+<div class="google-map">
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.825514382303!2d2.170245976618239!3d41.377575496602795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a259b084b847%3A0xc20542cb61d36342!2sCentre%20C%C3%ADvic%20Drassanes!5e1!3m2!1sen!2suk!4v1749315237869!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 The lectures from Wednesday 2nd to Friday 4th July will take place in the University of Barcelona Physics Faculty. 
-The full address is Carrer de Martí i Franquès, 1-11, 08028 Barcelona, Spain. The room for Wednesday 2nd will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo .
+The full address is Carrer de Martí i Franquès, 1-11, 08028 Barcelona, Spain. The room for Wednesday 2nd will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo.
 
 <!-- In 2024, the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
 The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
