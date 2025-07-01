@@ -66,7 +66,7 @@ The 4-day programme consists of lectures and discussions, hands-on practicals, a
 </style>
 | Class/Event  | Description                                                   | Lecturer |
 |-------------|---------------------------------------------------------------|----------|
-| **Lecture 3**  | Network metrics in practice: Introduction of historical case study for Gephi practical                                        | Martin   |
+| **Lecture 3**  | Making sense of a network                                        | Martin   |
 | **Practical 2** | Gephi practical 2 | Martin      |
 | **Lecture 4** | Network science models and theories                            | Sergi   |
 | **Practical 3** | R: Installing, workspace, libraries, data                            | Tom and Matteo   |
