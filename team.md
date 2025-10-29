@@ -11,7 +11,7 @@ cover: true
 
 ## People
 
-<!--* Tom Brughmans, Aarhus University - Social Resilience Lab>  
+<!--* Tom Brughmans, Aarhus University - Social Resilience Lab -->  
 <!--* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems --> <!-- UB ICS -->
 <!--* Marten Düring, Luxembourg Centre for Contemporary & Digital History --> <!-- C2DH -->
 <!--* Martin Grandjean, Université de Lausanne --> <!-- UNIL -->
@@ -19,7 +19,7 @@ cover: true
 <!--* Matteo Mazzamurro, Queen Mary University of London - School of Physical and Chemical Sciences -->
 <!--* Cindarella Petz, Leibniz Institute of European History --> <!-- IEG -->
 <!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
-<!--* Iza Romanowska, Aarhus University - Social Resilience Lab>
+<!--* Iza Romanowska, Aarhus University - Social Resilience Lab -->
 
 ![Tom Brughmans profile picture](/assets/img/organisers/Tom_Brughmans.jpg)
 
