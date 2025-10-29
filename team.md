@@ -29,7 +29,7 @@ cover: true
 
 _____
 
-![Albert Diaz Guilera profile picture](/assets/img/organisers/Albert_Diaz_Guilera.jpg), 
+![Albert Diaz Guilera profile picture](/assets/img/organisers/Albert_Diaz_Guilera.jpg) 
 
 [Albert Diaz Guilera](http://www.diaz-guilera.net/Albert_Diaz-Guilera/index.php), Universitat de Barcelona - Institute of Complex Systems
 
