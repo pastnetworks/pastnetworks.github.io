@@ -16,8 +16,9 @@ cover: true
    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.0148129249365!2d2.171608696388976!3d41.37879532610883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a259b084b847%3A0xc20542cb61d36342!2sCentre%20C%C3%ADvic%20Drassanes!5e0!3m2!1sen!2suk!4v1749316181227!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div> -->
 
-The lectures will take place in the University of Barcelona Physics Faculty. 
-The full address is Carrer de Martí i Franquès, 1-11, 08028 Barcelona, Spain. <!-- The room for Wednesday 2nd will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo. -->
+The lectures will take place in the University of Barcelona Physics Faculty. The full address is Carrer de Martí i Franquès, 1-11, 08028 Barcelona, Spain. For further information about the Physics Faculty, please refer to their [website](https://www.ub.edu/portal/web/physics).
+
+<!-- The room for Wednesday 2nd will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo. -->
 
 <!-- In 2024, the opening and closing day (Tuesday 25th and Saturday 29th June) the school will take place in rooms Calidoscopi 1 and 2 of the Centre Cívic Convent de Sant Agustí, in the city centre of Barcelona. 
 The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain. 
@@ -31,9 +32,6 @@ More information on the Centre Cívic Convent de Sant Agustí is available (in C
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2116.712571243211!2d2.1144459747451583!3d41.38530238222389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985939f1ab75%3A0x51254092607919e3!2sFacultat%20de%20F%C3%ADsica%20-%20Universitat%20de%20Barcelona!5e0!3m2!1sen!2suk!4v1711034144196!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-</br>
-
-For further information about the Physics Faculty, please refer to their [website](https://www.ub.edu/portal/web/physics).
 
 <!-- ## Self-paid dinner/bar night, optional social and and closing dinner
 
@@ -55,19 +53,19 @@ We will book a three course menu with diverse options, and including all drinks.
 There will be a closing dinner included in the registration fee. We will book a three course menu with diverse options, and including all drinks (venue to be confirmed).
 
 ## Transportation
+The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).
+
 <!-- The Centre Cívic Convent de Sant Agustí is in the city centre of Barcelona, less than 600 meters from the metro stations Arc de Triomf (red line L1) and Jaume I (yellow line L4) and with several bus stops nearby.
 The city center is easily accessible by metro.
 The Centre Civic Drassanes is in the city centre, 350 meters from the metro station Drassanes (green line L3), and 400 meters from the metro station Paral·lel (served by both the green line L3 and the lilac line L2). --> 
-The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). 
-More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).
+
 <!-- La Hacienda Princesa is placed in the city centre. The historical tour will end at the venue. Further information on this to be announced. 
 
 The restaurant Buenissimo is also located in the city centre, about 400 meters from the metro station Liceu (green line L3, the same as the Physics Faculty). --> 
 
 ## Accommodation
 As the venues can be easily reached by a short metro or bus ride from anywhere in the city, there is no strict need to find accommodation near them. 
-Barcelona offers a variety of accommodation options depending on individual needs.
-If you consented to sharing your email with other participants to coordinate joint accommodations, you will receive an email about this. 
+Barcelona offers a variety of accommodation options depending on individual needs. If you consented to sharing your email with other participants to coordinate joint accommodations, you will receive an email about this. 
 
 ## Accessibility
 The Physics Faculty is wheelchair accessible. 
