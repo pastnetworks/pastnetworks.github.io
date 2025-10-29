@@ -31,7 +31,7 @@ More information on the Centre Cívic Convent de Sant Agustí is available (in C
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2116.712571243211!2d2.1144459747451583!3d41.38530238222389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985939f1ab75%3A0x51254092607919e3!2sFacultat%20de%20F%C3%ADsica%20-%20Universitat%20de%20Barcelona!5e0!3m2!1sen!2suk!4v1711034144196!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
+</br>
 
 For further information about the Physics Faculty, please refer to their [website](https://www.ub.edu/portal/web/physics).
 
@@ -59,11 +59,10 @@ There will be a closing dinner included in the registration fee. We will book a 
 The city center is easily accessible by metro.
 The Centre Civic Drassanes is in the city centre, 350 meters from the metro station Drassanes (green line L3), and 400 meters from the metro station Paral·lel (served by both the green line L3 and the lilac line L2). --> 
 The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). 
-
+More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).
 <!-- La Hacienda Princesa is placed in the city centre. The historical tour will end at the venue. Further information on this to be announced. 
 
-The restaurant Buenissimo is also located in the city centre, about 400 meters from the metro station Liceu (green line L3, the same as the Physics Faculty). -->
-More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).  
+The restaurant Buenissimo is also located in the city centre, about 400 meters from the metro station Liceu (green line L3, the same as the Physics Faculty). --> 
 
 ## Accommodation
 As the venues can be easily reached by a short metro or bus ride from anywhere in the city, there is no strict need to find accommodation near them. 
