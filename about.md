@@ -11,7 +11,7 @@ cover: true
 
 ## At a glance
 
-* Annual 4-day summer school in Barcelona (1-4 July 2025)
+* Annual 4-day summer school in Barcelona
 *	Teaching the theory and practice of network research 
 *	For those studying the human past (historians, archaeologists, classicists, …)
 *	No prior computational skills required, but willingness to learn
@@ -23,7 +23,7 @@ Such research is supported by thriving international [communities](https://histo
 The Barcelona Past Networks Summer School addresses this educational gap. 
 It provides an annually recurring opportunity to learn what network research is, how it can be usefully and critically applied to the study of the human past, through hands-on practicals and critical lectures. 
 The content is curated and delivered by [leading experts](/team/#people) in the field, and the summer school is a joint effort of the main international scholarly communities in past networks research.
-The summer school is developed for those establishing or developing their studies and research on the human past (archaeologists, historians, classicists, …). 
+The summer school is an introduction to network research developed for those establishing or developing their studies and research on the human past (archaeologists, historians, classicists, …). 
 
 If you aim to perform network research but your own institutional or educational context cannot support you in this specialism, then this summer school is perfect for you. 
 No prior mathematical, computational or coding experience is needed, but a willingness to work with and learn computational and coding approaches is necessary, given the strong practical focus of the summer school.
