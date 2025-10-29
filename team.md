@@ -2,7 +2,7 @@
 layout: page
 title: Team
 description: >
-last_modified_at: 2023-11-04
+last_modified_at: 2025-10-29
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
@@ -11,15 +11,15 @@ cover: true
 
 ## People
 
-<!--* Tom Brughmans, Aarhus University - Social Resilience Lab> <!-- UrbNet --> 
+<!--* Tom Brughmans, Aarhus University - Social Resilience Lab>  
 <!--* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems --> <!-- UB ICS -->
 <!--* Marten Düring, Luxembourg Centre for Contemporary & Digital History --> <!-- C2DH -->
 <!--* Martin Grandjean, Université de Lausanne --> <!-- UNIL -->
 <!--* Sergi Lozano, Universitat de Barcelona - Institute of Complex Systems> <!-- UB ICS --> 
-<!--* Matteo Mazzamurro, Aarhus University - Social Resilience Lab --> <!-- UrbNet --> 
+<!--* Matteo Mazzamurro, Queen Mary University of London - School of Physical and Chemical Sciences -->
 <!--* Cindarella Petz, Leibniz Institute of European History --> <!-- IEG -->
 <!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
-<!--* Iza Romanowska, Aarhus University - Social Resilience Lab> <!-- UrbNet -->
+<!--* Iza Romanowska, Aarhus University - Social Resilience Lab>
 
 ![Tom Brughmans profile picture](/assets/img/organisers/Tom_Brughmans.jpg)
 
@@ -63,9 +63,9 @@ _____
 
 ![Matteo Mazzamurro profile picture](/assets/img/organisers/Matteo_Mazzamurro.jpg)
 
-[Matteo Mazzamurro](https://pure.au.dk/portal/en/persons/m.mazzamurro%40cas.au.dk), Aarhus University - Social Resilience Lab 
+[Matteo Mazzamurro](https://www.qmul.ac.uk/spcs/staff/academics/profiles/mmazzamurro.html), Queen Mary University of London - School of Physical and Chemical Sciences
 
-*Urban networks scientist interested in the evolution of social and transport connectivity.*
+*Lecturer in Data Science interested in the evolution of social and transport connectivity.*
 
 _____
 
