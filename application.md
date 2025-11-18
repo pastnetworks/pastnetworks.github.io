@@ -9,8 +9,9 @@ hide_image: false
 cover: true
 ---
 
-The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) 16-19 June 2026. You can apply to participate by completing an application form from mid-November 2025. Places are limited, and will be offered following a review of all applications after the 26 January 2026 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR lunch fee.
+The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) 16-19 June 2026. You can apply to participate by completing the below form. Places are limited, and will be offered following a review of all applications after the 26 January 2026 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR lunch fee.
 
+Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSd4EAUy-KoE0amplZNeL91-wuxI0rsEt7qMfXKenRj-8FVQEg/viewform?usp=dialog).
 <!-- Complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLScRwiSxn8N7E7KRjwP2v8M1zaEqrbR5oXoBeUb0kbnP5AuZtg/viewform?usp=sf_link). --> 
 
 
