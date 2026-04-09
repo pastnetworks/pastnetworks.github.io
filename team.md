@@ -11,7 +11,7 @@ cover: true
 
 ## People
 
-<!--* Tom Brughmans, Aarhus University - Social Resilience Lab -->  
+<!-- Tom Brughmans, Aarhus University - Social Resilience Lab -->  
 <!--* Albert Diaz-Guilera, Universitat de Barcelona - Institute of Complex Systems --> <!-- UB ICS -->
 <!--* Marten Düring, Luxembourg Centre for Contemporary & Digital History --> <!-- C2DH -->
 <!--* Martin Grandjean, Université de Lausanne --> <!-- UNIL -->
@@ -85,11 +85,11 @@ _____
 
 _____
 
-<!--![Iza Romanowska profile picture](/assets/img/organisers/Iza_Romanowska.jpg)
+<!-- [Iza Romanowska profile picture](/assets/img/organisers/Iza_Romanowska.jpg)
 
 [Iza Romanowska](https://www.au.dk/en/iromanowska@cas.au.dk), Aarhus University - Social Resilience Lab
 
-*Agent-based modeler applying complexity science to archaeological and historical data to explore long-term social trends and human-environment dynamics.*-->
+*Agent-based modeler applying complexity science to archaeological and historical data to explore long-term social trends and human-environment dynamics.* -->
 
 
 ## Made possible thanks to
