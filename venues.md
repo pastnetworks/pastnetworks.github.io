@@ -49,8 +49,8 @@ The closing dinner will take place on Thursday 3rd July at 19:30 in the restaura
 This activity is included in the registration fee.
 We will book a three course menu with diverse options, and including all drinks. -->
 
-## Closing dinner
-There will be a closing dinner included in the registration fee. We will book a three course menu with diverse options, and including all drinks (venue to be confirmed).
+## Social dinners
+Two social dinners are included in the registration fee. We will book pre-set menus with diverse options and drinks will be included (venue to be confirmed).
 
 ## Transportation
 The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).
