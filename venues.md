@@ -52,7 +52,7 @@ We will book a three course menu with diverse options, and including all drinks.
 ## Social dinners
 Two social dinners are included in the registration fee. Pre-set menus with diverse options will be arranged, and drinks are included. 
 
-A social dinner will take place Tuesday 16th June at 20:00 in the restaurant Fabrica Moritz Barcelona, located Ronda de Sant Antoni, 41, 08011 Barcelona.
+A social dinner will take place Tuesday 16th June at 20:00 in the restaurant Fabrica Moritz Barcelona, located at Ronda de Sant Antoni, 41, 08011 Barcelona.
 
 The closing dinner will take place on Thursday 18th June at 19:30 in the restaurant Buenissimo, located at Carrer d'En Bot, 4, Ciutat Vella, 08002 Barcelona.
 
