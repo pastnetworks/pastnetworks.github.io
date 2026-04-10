@@ -100,7 +100,7 @@ The 4-day programme consists of lectures and discussions, hands-on practicals, a
 | **Lecture 5**  | Introduction to the case study of the R practical                                        | Tom   |
 | **Practical 4** | R practical 1: network analysis of Roman roads | Tom and Matteo      |
 | **Lecture 6** | Research design                            | Cindarella   |
-| **Practical 5** | Poster creation                            | Cindarella and Iza |
+| **Practical 5** | Poster creation                            | Cindarella |
 
 ### Day 4: Projects & critical perspectives
 <style>
