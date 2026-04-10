@@ -50,14 +50,14 @@ This activity is included in the registration fee.
 We will book a three course menu with diverse options, and including all drinks. -->
 
 ## Social dinners
-Two social dinners are included in the registration fee. Pre-set menus with diverse options will be arranged, and drinks are included. 
+A social dinner and a closing dinner are included in the registration fee. Pre-set menus with diverse options will be arranged, and drinks are included. 
 
-A social dinner will take place Tuesday 16th June at 20:00 in the restaurant Fabrica Moritz Barcelona, located at Ronda de Sant Antoni, 41, 08011 Barcelona.
+The social dinner will take place Tuesday 16th June at 20:00 in the restaurant Fabrica Moritz Barcelona, located at Ronda de Sant Antoni, 41, 08011 Barcelona.
 <div class="google-map">
    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5987.209253049643!2d2.1633522000000003!3d41.382674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a28ac1c7d247%3A0x200341909d1e7213!2sF%C3%A0brica%20Moritz%20Barcelona!5e0!3m2!1sen!2sdk!4v1775821173919!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-##
+## Closing dinner
 The closing dinner will take place on Thursday 18th June at 19:30 in the restaurant Buenissimo, located at Carrer d'En Bot, 4, Ciutat Vella, 08002 Barcelona.
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d187.09658185741372!2d2.1723376!3d41.3839625!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2876851bad3%3A0x4447b4b703931cf3!2sBUENISSIMO!5e0!3m2!1sen!2suk!4v1718714051515!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
