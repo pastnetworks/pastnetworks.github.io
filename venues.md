@@ -49,7 +49,7 @@ The closing dinner will take place on Thursday 3rd July at 19:30 in the restaura
 This activity is included in the registration fee.
 We will book a three course menu with diverse options, and including all drinks. -->
 
-## Social dinners
+## Social dinner
 A social dinner and a closing dinner are included in the registration fee. Pre-set menus with diverse options will be arranged, and drinks are included. 
 
 The social dinner will take place Tuesday 16th June at 20:00 in the restaurant Fabrica Moritz Barcelona, located at Ronda de Sant Antoni, 41, 08011 Barcelona.
