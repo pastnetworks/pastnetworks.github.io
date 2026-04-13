@@ -50,7 +50,7 @@ This activity is included in the registration fee.
 We will book a three course menu with diverse options, and including all drinks. -->
 
 ## Museum visit
-A visit to the underground archaeological site at [Plaça del Rei, part of Museu d’Història de Barcelona (MUHBA)](https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/placa-del-rei), offering a unique walk through Roman, Visigothic, and medieval Barcelona. The summer school has arranged a 2-hour guided tour in three groups of approximately 12 participants Tuesday 16th June. The tour is fully covered by the summer school, and participants will be assigned to groups in advance.
+A visit to the underground archaeological site at [Plaça del Rei, part of Museu d’Història de Barcelona (MUHBA)](https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/placa-del-rei), offering a unique walk through Roman, Visigothic, and medieval Barcelona. Tuesday 16th June, the summer school has arranged a 2-hour guided tour in three groups of approximately 12 participants. The tour is fully covered by the summer school, and participants will be assigned to groups in advance.
 
 Tour schedule: Group 1: 16:00; Group 2: 16:30; Group 3: 17:00.
  
