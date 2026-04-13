@@ -57,6 +57,8 @@ Tour schedule: Group 1: 16:00; Group 2: 16:30; Group 3: 17:00.
 Address: Plaça del Rei, s/n (c/ del Veguer), 08002 Barcelona.
 <div class="google-map">
    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.6252939990245!2d2.173929726852295!3d41.38222504631418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2f17b8c4573%3A0x176dbf4aa53f2526!2sCasa%20Padell%C3%A0s%20(Barcelona%20History%20Museum%20MUHBA)!5e0!3m2!1sen!2sdk!4v1776068339420!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 
 ## Social dinner
 A social dinner and a closing dinner are included in the registration fee. Pre-set menus with diverse options will be arranged, and drinks are included. 
