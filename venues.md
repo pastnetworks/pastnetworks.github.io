@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
-## Venues
+## Lectures
 <!-- The opening day of the school (Tuesday 1st July) will take place in the Sala d'Actes at the Centre Civic Drassanes, in  the city centre of Barcelona. 
 
 <div class="google-map">
