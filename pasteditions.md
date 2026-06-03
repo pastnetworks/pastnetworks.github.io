@@ -21,6 +21,8 @@ The second edition of the Barcelona Summer School took place from 1st to 4th Jul
 ## Venues 2025
 The school took place in the the Centre Civic Drassanes and in the University of Barcelona Physics Faculty.
 
+The closing dinner took place on Thursday 3rd July at 19:30 in the restaurant Buenissimo.
+
 ##  Programme 2025
 
 The 4-day programme consisted of lectures and discussions, hands-on practicals, and socials.
