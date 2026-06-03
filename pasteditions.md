@@ -16,9 +16,14 @@ cover: true
 <a id="2025edition"></a>
 # 2025
 
-##  At a glance
+The second edition of the Barcelona Summer School took place from 1st to 4th July 2025. Twenty-nine people participated.
 
-The 4-day programme consists of lectures and discussions, hands-on practicals, and socials.
+## Venues 2025
+The school took place in the the Centre Civic Drassanes and in the University of Barcelona Physics Faculty.
+
+##  Programme 2025
+
+The 4-day programme consisted of lectures and discussions, hands-on practicals, and socials.
 ![Programme timetable of BPNSS 2025](/assets/img/programme_timetable_2025.png)
 
 ##  Lectures overview
