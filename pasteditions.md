@@ -16,7 +16,7 @@ cover: true
 <a id="2025edition"></a>
 # 2025
 
-The second edition of the Barcelona Summer School took place from 1st to 4th July 2025. Twenty-nine people participated.
+The second edition of the Barcelona Summer School took place from 1st to 4th July 2025. Twenty-eight people participated.
 
 ## Venues 2025
 The school took place in the the Centre Civic Drassanes and in the University of Barcelona Physics Faculty.
