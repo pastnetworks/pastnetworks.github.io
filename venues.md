@@ -16,7 +16,7 @@ cover: true
    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.0148129249365!2d2.171608696388976!3d41.37879532610883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a259b084b847%3A0xc20542cb61d36342!2sCentre%20C%C3%ADvic%20Drassanes!5e0!3m2!1sen!2suk!4v1749316181227!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div> -->
 
-The lectures will take place in Aula N06M at the Faculty of Physics, University of Barcelona. The full address is Carrer de Martí i Franquès, 1–11, 08028 Barcelona, Spain. Please note that the building has several entrances. Participants should enter via the entrance on Carrer de Pau Gargallo, which provides the most direct access to the lecture venue. For further information about the Faculty of Physics, please visit thei(https://www.ub.edu/portal/web/physics).
+The lectures will take place in Aula N06M at the Faculty of Physics, University of Barcelona. The full address is Carrer de Martí i Franquès, 1–11, 08028 Barcelona, Spain. Please note that the building has several entrances. Participants should enter via the entrance on Carrer de Pau Gargallo, which provides the most direct access to the lecture venue. For further information about the Faculty of Physics, please visit their [website](https://www.ub.edu/portal/web/physics).
 
 <!-- The room for Wednesday 2nd will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo. -->
 
