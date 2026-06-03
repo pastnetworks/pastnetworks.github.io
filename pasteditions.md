@@ -28,7 +28,6 @@ The closing dinner took place on Thursday 3rd July at 19:30 in the restaurant Bu
 The 4-day programme consisted of lectures and discussions, hands-on practicals, and socials.
 ![Programme timetable of BPNSS 2025](/assets/img/programme_timetable_2025.png)
 
-##  Lectures overview
 ### Day 1: Welcome and Introduction
 <style>
   table {
