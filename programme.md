@@ -14,7 +14,7 @@ cover: true
 
 The 4-day programme consists of lectures and discussions, hands-on practicals, and socials.
 
-![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final.png)
+![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final_final.png)
 
 ##  Lectures overview
 ### Day 1: Welcome and Introduction
