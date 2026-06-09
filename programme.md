@@ -125,7 +125,7 @@ The 4-day programme consists of lectures and discussions, hands-on practicals, a
 </style>
 | Class/Event  | Description                                                   | Lecturer |
 |-------------|---------------------------------------------------------------|----------|
-| **Practical 6**  | R practical 2: : network analysis of Roman roads, significance of results                                        | Tom and Matteo  |
+| **Practical 6**  | R practical 2: network analysis of Roman roads, significance of results                                        | Tom and Matteo  |
 | **Lecture 7** | Next steps for the case study: theories, models and methods | Tom      |
 | **Practical 7** | Best practices: data and results deposition and documentation                            | Matteo   |
 | **Lecture 8** | Critical Perspectives                            | Cindarella   |
