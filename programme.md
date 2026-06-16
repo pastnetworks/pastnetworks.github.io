@@ -71,7 +71,7 @@ The 4-day programme consists of lectures and discussions, hands-on practicals, a
 |-------------|---------------------------------------------------------------|----------|
 | **Lecture 3**  | Making sense of a network                                        | Martin   |
 | **Practical 2** | Gephi practical 2 | Martin      |
-| **Lecture 4** | Network science models and theories                            | Sergi   |
+| **Lecture 4** | Network science models and theories                            | Sergi and Luce   |
 | **Practical 3** | R: Installing, workspace, libraries, data                            | Matteo   |
 
 ### Day 3
