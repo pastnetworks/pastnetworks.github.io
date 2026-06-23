@@ -21,6 +21,14 @@ cover: true
 <!--* Luce Prignano, Universitat de Barcelona --> <!-- UB -->
 <!--* Iza Romanowska, Aarhus University - Social Resilience Lab -->
 
+![Cindarella Petz profile picture](/assets/img/organisers/Cindarella_Petz.jpg)
+
+[Cindarella Petz](https://www.ieg-mainz.de/en/institute/people/petz), Leibniz Institute of European History (IEG)
+
+*Specialised in computational approaches for historical research.*
+
+_____
+
 ![Tom Brughmans profile picture](/assets/img/organisers/Tom_Brughmans.jpg)
 
 [Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html), Aarhus University - Social Resilience Lab  
@@ -37,11 +45,11 @@ _____
 
 _____
 
-![Marten During profile picture](/assets/img/organisers/Marten_During.jpg)
+![Luce Prignano profile picture](/assets/img/organisers/Luce_Prignano.jpg)
 
-[Marten Düring](https://www.c2dh.uni.lu/people/marten-during), Luxembourg Centre for Contemporary & Digital History
+[Luce Prignano](https://luceprignano.wordpress.com/), Universitat de Barcelona
 
-*Contemporary historian working on the intersection between historical thinking and computational methods.*
+*Physicist working on and through social complexity.*
 
 _____
 
@@ -53,14 +61,6 @@ _____
 
 _____
 
-![Sergi Lozano profile picture](/assets/img/organisers/Sergi_Lozano.jpg)
-
-[Sergi Lozano](https://www.ub.edu/school-economics/researchers/lozano-sergi/), Universitat de Barcelona - Institute of Complex Systems  
-
-*Complexity scientist interested in past socio-economic phenomena.*
-
-_____
-
 ![Matteo Mazzamurro profile picture](/assets/img/organisers/Matteo_Mazzamurro.jpg)
 
 [Matteo Mazzamurro](https://www.qmul.ac.uk/spcs/staff/academics/profiles/mmazzamurro.html), Queen Mary University of London - School of Physical and Chemical Sciences
@@ -69,19 +69,19 @@ _____
 
 _____
 
-![Cindarella Petz profile picture](/assets/img/organisers/Cindarella_Petz.jpg)
+![Marten During profile picture](/assets/img/organisers/Marten_During.jpg)
 
-[Cindarella Petz](https://www.ieg-mainz.de/en/institute/people/petz), Leibniz Institute of European History (IEG)
+[Marten Düring](https://www.c2dh.uni.lu/people/marten-during), Luxembourg Centre for Contemporary & Digital History
 
-*Specialised in computational approaches for historical research.*
+*Contemporary historian working on the intersection between historical thinking and computational methods.*
 
 _____
 
-![Luce Prignano profile picture](/assets/img/organisers/Luce_Prignano.jpg)
+![Sergi Lozano profile picture](/assets/img/organisers/Sergi_Lozano.jpg)
 
-[Luce Prignano](https://luceprignano.wordpress.com/), Universitat de Barcelona
+[Sergi Lozano](https://www.ub.edu/school-economics/researchers/lozano-sergi/), Universitat de Barcelona - Institute of Complex Systems  
 
-*Physicist working on and through social complexity.*
+*Complexity scientist interested in past socio-economic phenomena.*
 
 _____
 
