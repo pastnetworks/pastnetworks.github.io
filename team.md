@@ -69,6 +69,14 @@ _____
 
 _____
 
+![Mie Egelund Lind profile picture](/assets/img/organisers/Mie Egelund Lind_REL_2023.JPG)
+
+[Mie Egelund Lind](https://www.au.dk/miege@cas.au.dk/)
+
+*Project coordinator providing administrative support for the Barcelona Past Networks Summer School.*
+
+_____
+
 ![Marten During profile picture](/assets/img/organisers/Marten_During.jpg)
 
 [Marten Düring](https://www.c2dh.uni.lu/people/marten-during), Luxembourg Centre for Contemporary & Digital History
