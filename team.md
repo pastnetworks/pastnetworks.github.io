@@ -71,7 +71,7 @@ _____
 
 ![Mie Egelund Lind profile picture](/assets/img/organisers/Mie Egelund Lind_REL_2023.JPG)
 
-[Mie Egelund Lind](https://www.au.dk/miege@cas.au.dk/)
+[Mie Egelund Lind](https://www.au.dk/miege@cas.au.dk/), Aarhus University - Social Resilience Lab
 
 *Project coordinator providing administrative support for the Barcelona Past Networks Summer School.*
 
