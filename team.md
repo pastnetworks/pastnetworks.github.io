@@ -69,7 +69,7 @@ _____
 
 _____
 
-![Mie Egelund Lind profile picture](/assets/img/organisers/Mie_Egelund_Lind.JPG)
+![Mie Egelund Lind profile picture](/assets/img/organisers/Mie_Lind.jpg)
 
 [Mie Egelund Lind](https://www.au.dk/miege@cas.au.dk/), Aarhus University - Social Resilience Lab
 
