@@ -14,7 +14,7 @@ cover: true
 
 The 4-day programme will consist of lectures and discussions, hands-on practicals, and socials. We are currently working on the programme for the 2027 edition. For examples of previous programmes, please see under Past editions.    
 
-!<-- ![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final_final.png)
+<!-- ![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final_final.png)
 
 ##  Lectures overview
 ### Day 1: Welcome and Introduction
