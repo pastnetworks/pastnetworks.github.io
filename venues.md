@@ -52,7 +52,7 @@ The closing dinner will take place on Thursday 3rd July at 19:30 in the restaura
 This activity is included in the registration fee.
 We will book a three course menu with diverse options, and including all drinks. -->
 
-## Museum visit
+<!-- ## Museum visit
 A visit to the underground archaeological site at [Plaça del Rei, part of Museu d’Història de Barcelona (MUHBA)](https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/placa-del-rei), offering a unique walk through Roman, Visigothic, and medieval Barcelona. Tuesday 16th June, the summer school has arranged a 2-hour guided tour in three groups of approximately 12 participants. The tour is fully covered by the summer school, and participants will be assigned to groups in advance.
 
 Tour schedule: Group 1: 16:00; Group 2: 16:30; Group 3: 17:00.
@@ -78,7 +78,7 @@ The closing dinner will take place on Thursday 18th June at 19:30 in the restaur
 </div>
 
 ## Transportation
-The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home).
+The University of Barcelona Physics Faculty is right by the metro stop Palau Reial (green line L3). More information on Barcelona’s bus and metro system is available on the [TMB website](https://www.tmb.cat/en/home). -->
 
 <!-- The Centre Cívic Convent de Sant Agustí is in the city centre of Barcelona, less than 600 meters from the metro stations Arc de Triomf (red line L1) and Jaume I (yellow line L4) and with several bus stops nearby.
 The city center is easily accessible by metro.
