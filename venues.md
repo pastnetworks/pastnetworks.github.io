@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
-The venues for the 2026 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the (/pasteditions/) took place.
+The venues for the 2026 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues mentioned under Past editions.
 
 <!-- ## Lectures -->
 
@@ -88,7 +88,7 @@ The Centre Civic Drassanes is in the city centre, 350 meters from the metro stat
 
 The restaurant Buenissimo is also located in the city centre, about 400 meters from the metro station Liceu (green line L3, the same as the Physics Faculty). --> 
 
-## Accommodation
+<!-- ## Accommodation
 As the venues can be easily reached by a short metro or bus ride from anywhere in the city, there is no strict need to find accommodation near them. 
 Barcelona offers a variety of accommodation options depending on individual needs. If you consented to sharing your email with other participants to coordinate joint accommodations, you will receive an email about this. 
 
