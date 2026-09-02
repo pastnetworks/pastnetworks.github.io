@@ -9,9 +9,17 @@ hide_image: false
 cover: true
 ---
 
+ - [Go to 2025 edition](#2026edition) 
  - [Go to 2025 edition](#2025edition) 
  - [Go to 2024 edition](#2024edition) 
 
+<a id="2026edition"></a>
+# 2026
+
+The third edition of the Barcelona Summer School took place from 16th to 19th June 2026. Twenty-nine people participated.
+
+## Venues 2026
+The summer school took place in the University of Barcelona Physics Faculty.
 
 <a id="2025edition"></a>
 # 2025
