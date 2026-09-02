@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
- - [Go to 2025 edition](#2026edition) 
+ - [Go to 2026 edition](#2026edition) 
  - [Go to 2025 edition](#2025edition) 
  - [Go to 2024 edition](#2024edition) 
 
