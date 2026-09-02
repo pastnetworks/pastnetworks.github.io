@@ -12,9 +12,9 @@ cover: true
 
 ##  At a glance
 
-The 4-day programme consists of lectures and discussions, hands-on practicals, and socials.
+The 4-day programme will consist of lectures and discussions, hands-on practicals, and socials. We are currently working on the programme for the 2027 edition. For examples of previous programmes, please see under Past editions.    
 
-![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final_final.png)
+!<-- ![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final_final.png)
 
 ##  Lectures overview
 ### Day 1: Welcome and Introduction
@@ -148,4 +148,4 @@ As part of your preparation, please follow the instructions below to ensure that
 *	(optional) Feel free to get familiar with RStudio by doing the rest of that tutorial 1.4-1.11.
 
 ### Prior reading and resources:
-*	Check out this BPNSS document if you would like to do some reading ahead of the summer school, watch some tutorial videos, or explore the resources of our community: <https://docs.google.com/document/d/1e4UwRiMOHDkpwfnVBH-fzylnya2-AlEV7fBhDj5lnyE/edit?usp=sharing>.
+*	Check out this BPNSS document if you would like to do some reading ahead of the summer school, watch some tutorial videos, or explore the resources of our community: <https://docs.google.com/document/d/1e4UwRiMOHDkpwfnVBH-fzylnya2-AlEV7fBhDj5lnyE/edit?usp=sharing>. -->
