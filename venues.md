@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
-## Lectures
+<!--## Lectures
 <!-- The opening day of the school (Tuesday 1st July) will take place in the Sala d'Actes at the Centre Civic Drassanes, in  the city centre of Barcelona. 
 
 <div class="google-map">
@@ -96,6 +96,6 @@ The faculty building’s entrance doors can be reached via street level or ramps
 The metro stop Palau Reial is wheelchair accessible. A [map](https://disabledaccessibletravel.com/how_to_metro_in_barcelona/) of all the accessible stations in the Barcelona metro is available.
 
 If you have any concerns about accessibility, please do not hesitate to send us an email. 
-We will share our phone numbers with you and a member of the team will always be available to provide support if needed.
+We will share our phone numbers with you and a member of the team will always be available to provide support if needed. -->
 
-<!--The venues for the 2025 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the [2024 edition](/pasteditions/) took place. -->
+The venues for the 2025 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the [2024 edition](/pasteditions/) took place.
