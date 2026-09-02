@@ -9,14 +9,17 @@ hide_image: false
 cover: true
 ---
 
-<!--## Lectures
+The venues for the 2026 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the (/pasteditions/) took place.
+
+<!-- ## Lectures -->
+
 <!-- The opening day of the school (Tuesday 1st July) will take place in the Sala d'Actes at the Centre Civic Drassanes, in  the city centre of Barcelona. 
 
 <div class="google-map">
    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.0148129249365!2d2.171608696388976!3d41.37879532610883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a259b084b847%3A0xc20542cb61d36342!2sCentre%20C%C3%ADvic%20Drassanes!5e0!3m2!1sen!2suk!4v1749316181227!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div> -->
 
-The lectures will take place in Aula N06M at the Faculty of Physics, University of Barcelona. The full address is Carrer de Martí i Franquès, 1–11, 08028 Barcelona, Spain. Please note that the building has several entrances. Participants should enter via the entrance on Carrer de Pau Gargallo, which provides the most direct access to the lecture venue. For further information about the Faculty of Physics, please visit their [website](https://www.ub.edu/portal/web/physics).
+<!-- The lectures will take place in Aula N06M at the Faculty of Physics, University of Barcelona. The full address is Carrer de Martí i Franquès, 1–11, 08028 Barcelona, Spain. Please note that the building has several entrances. Participants should enter via the entrance on Carrer de Pau Gargallo, which provides the most direct access to the lecture venue. For further information about the Faculty of Physics, please visit their [website](https://www.ub.edu/portal/web/physics). -->
 
 <!-- The room for Wednesday 2nd will be Aula N06M. Please note that the building has multiple entrances. You should access the building from its entrance in Carrer de Pau Gargallo. -->
 
@@ -29,9 +32,9 @@ The full address is C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain.
 
 More information on the Centre Cívic Convent de Sant Agustí is available (in Catalan and Castillan Spanish) [here](https://ajuntament.barcelona.cat/centrescivics/ca/centre-civic/centre-civic-convent-de-sant-agusti). -->
 
-<div class="google-map">
+<!-- <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2116.712571243211!2d2.1144459747451583!3d41.38530238222389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985939f1ab75%3A0x51254092607919e3!2sFacultat%20de%20F%C3%ADsica%20-%20Universitat%20de%20Barcelona!5e0!3m2!1sen!2suk!4v1711034144196!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+</div> -->
 
 <!-- ## Self-paid dinner/bar night, optional social and and closing dinner
 
@@ -97,5 +100,3 @@ The metro stop Palau Reial is wheelchair accessible. A [map](https://disabledacc
 
 If you have any concerns about accessibility, please do not hesitate to send us an email. 
 We will share our phone numbers with you and a member of the team will always be available to provide support if needed. -->
-
-The venues for the 2025 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues where the [2024 edition](/pasteditions/) took place.
