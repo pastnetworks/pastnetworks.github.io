@@ -9,7 +9,7 @@ hide_image: false
 cover: true
 ---
 
-The venues for the 2026 edition are to be determined. The school will take place in a central location in Barcelona. For more information, please have a look at the venues mentioned under Past editions.
+The venue(s) for the 2027 edition have yet to be confirmed. The school will take place at a central location in Barcelona. For examples of venues used in previous editions, please see the Past Editions section.
 
 <!-- ## Lectures -->
 
