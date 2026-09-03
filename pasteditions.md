@@ -16,12 +16,12 @@ cover: true
 <a id="2026edition"></a>
 # 2026
 
-The third edition of the Barcelona Summer School took place from 16th to 19th June 2026. Twenty-nine people participated.
+The third edition of the Barcelona Past Network Summer School took place from 16 to 19 June 2026 and was attended by 29 participants.
 
 ## Venues 2026
-The summer school took place in the University of Barcelona Physics Faculty. 
+The summer school was held at the Faculty of Physics, University of Barcelona.
 
-A social dinner took place Tuesday 16th June at restaurant Fabrica Moritz Barcelona, and a closing dinner was held Thursday 18th June at 19:30 in the restaurant Buenissimo.
+A social dinner took place on Tuesday, 16 June, at Fàbrica Moritz Barcelona, and a closing dinner was held on Thursday, 18 June, at Buenissimo.
 
 ## Programme 2026
 The 4-day programme consisted of lectures and discussions, hands-on practicals, and socials.
