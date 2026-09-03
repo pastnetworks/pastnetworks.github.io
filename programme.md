@@ -12,7 +12,7 @@ cover: true
 
 ##  At a glance
 
-The 4-day programme will consist of lectures and discussions, hands-on practicals, and socials. We are currently working on the programme for the 2027 edition. For examples of previous programmes, please see under Past editions.    
+The 4-day programme will consist of lectures and discussions, hands-on practical sessions, and social events. We are currently working on the programme for the 2027 edition. For examples of previous programmes, please see the Past editions section.
 
 <!-- ![Programme timetable of BPNSS 2026](/assets/img/Program overview 2026_final_final.png)
 
