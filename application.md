@@ -11,7 +11,7 @@ cover: true
 
 The Barcelona Past Networks Summer School will take place in the city of Barcelona (Spain) in the summer of 2027. 
 
-Applications will open in late autumn 2026, when an online application form will be made available. Places are limited and will be allocated following a review of all applications after the January 2027 deadline.
+Applications will open in late autumn 2026, when an online application form will be made available. Places are limited and will be allocated following a review of all applications after the application deadline in January 2027.
 
 If you are offered a place, your participation will be confirmed upon payment of the €75 lunch fee.
 
