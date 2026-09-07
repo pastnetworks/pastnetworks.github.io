@@ -13,7 +13,7 @@ The Barcelona Past Networks Summer School will take place in the city of Barcelo
 
 Applications will open in late autumn 2026, when an online application form will be made available. Places are limited and will be allocated following a review of all applications after the application deadline in January 2027.
 
-If you are offered a place, your participation will be confirmed upon payment of the €75 lunch fee.
+If you are offered a place, your participation will be confirmed upon payment of the €85 lunch fee.
 
 <!-- You can apply to participate by completing a form that will be made available in the late autumn of 2026. Places are limited, and will be offered following a review of all applications after the January 2027 deadline. If you have been offered a place, then your offer will be conditional on paying the 75 EUR lunch fee. --> 
 
@@ -37,7 +37,7 @@ This is a free event and there is no registration fee. Registration includes:
 * One dinner
 * All academic content and materials
 
-The school includes four lunches for which a 75 EUR lunch fee needs to be paid at the registration phase. The lunch fee can only be paid once you have been offered a place in the summer school. Only bank transfers will be accepted (no cash or cheques).
+The school includes four lunches for which a 85 EUR lunch fee needs to be paid at the registration phase. The lunch fee can only be paid once you have been offered a place in the summer school. Only bank transfers will be accepted (no cash or cheques).
 
 Participants need to make their own arrangements for:
 * Accommodation during the summer school (a list of participants will be created to support searching for accommodation together)
@@ -47,7 +47,7 @@ Participants need to make their own arrangements for:
 
 ## Bursaries
 
-The summer school is able to offer a small number of bursaries between 75 EUR and 300 EUR that can only be used to support expenses directly related to attending the Barcelona Past Networks Summer School. Eligible expenses include:
+The summer school is able to offer a small number of bursaries between 85 EUR and 300 EUR that can only be used to support expenses directly related to attending the Barcelona Past Networks Summer School. Eligible expenses include:
 * BPNSS lunch fee
 * Accommodation during the summer school
 * Travel to and from the summer school
