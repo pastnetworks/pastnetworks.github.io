@@ -53,7 +53,7 @@ The summer school is able to offer a small number of bursaries between 85 EUR an
 * Travel to and from the summer school
 
 ### Bursary application procedure
-There is no separate bursary application procedure. You have to apply for a bursary alongside your application for the summer school, before the 26 January 2026 deadline.
+There is no separate bursary application procedure. You have to apply for a bursary alongside your application for the summer school, before the deadline in January 2027.
 
 In the application form, answer “Yes” to the question “Do you want to be considered for a bursary?”.
 Please describe in no more than 200 words your motivation for applying for a bursary, listing concrete reasons.
@@ -63,7 +63,7 @@ Please describe in no more than 200 words your motivation for applying for a bur
 The free event and the bursaries are made possible thanks to our lecturers donating their time and work, the University of Barcelona providing venues, the [organizing institutions](/team/#made-possible-thanks-to), and thanks to generous support from The Carlsberg Foundation in the context of The Past Social Networks Project (CF21-0382).
 
 ## Privacy notice
-Your answers to the questions on the application form will be accessed by the organisers as part of the selection process. The information collected via the form will be stored securely in password-protected environments and will not be shared with others. The personal information on the motivation statement and bursary application statement will be stored only until the end of the selection process (February 2026). 
+Your answers to the questions on the application form will be accessed by the organisers as part of the selection process. The information collected via the form will be stored securely in password-protected environments and will not be shared with others. The personal information on the motivation statement and bursary application statement will be stored only until the end of the selection process (February 2027). 
 
 Personal information is collected to ensure a balanced mix of participants in terms of gender, disciplinary background, career level, and country of residence. The same information will be retained in an anonymised form to ensure that the future editions of the summer school can be improved based upon the experience of the previous years. 
 
